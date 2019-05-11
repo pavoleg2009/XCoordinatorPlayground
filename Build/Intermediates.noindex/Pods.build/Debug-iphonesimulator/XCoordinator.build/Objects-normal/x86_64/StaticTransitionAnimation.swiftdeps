@@ -1,0 +1,220 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StaticTransitionAnimation"
+provides-nominal:
+- "12XCoordinator25StaticTransitionAnimationC"
+provides-member:
+- ["12XCoordinator25StaticTransitionAnimationC", ""]
+- ["12XCoordinator25StaticTransitionAnimationC", "performTransition"]
+provides-dynamic-lookup:
+- "animateTransition"
+- "transitionDuration"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "NSObject"
+- "PercentDrivenInteractionController"
+- "StaticTransitionAnimation"
+- "TimeInterval"
+- "TransitionAnimation"
+- "UIViewControllerContextTransitioning"
+- "Void"
+depends-member:
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_performAnimation"]
+- ["s7CVarArgP", "animateTransition"]
+- ["s7CVarArgP", "animationEnded"]
+- ["s7CVarArgP", "cleanup"]
+- !private ["s7CVarArgP", "duration"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "interactionController"]
+- ["s7CVarArgP", "interruptibleAnimator"]
+- ["s7CVarArgP", "interruptibleAnimatorForTransition"]
+- ["s7CVarArgP", "start"]
+- ["s7CVarArgP", "transitionDuration"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "_performAnimation"]
+- ["s28CustomDebugStringConvertibleP", "animateTransition"]
+- ["s28CustomDebugStringConvertibleP", "animationEnded"]
+- ["s28CustomDebugStringConvertibleP", "cleanup"]
+- !private ["s28CustomDebugStringConvertibleP", "duration"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "interactionController"]
+- ["s28CustomDebugStringConvertibleP", "interruptibleAnimator"]
+- ["s28CustomDebugStringConvertibleP", "interruptibleAnimatorForTransition"]
+- ["s28CustomDebugStringConvertibleP", "start"]
+- ["s28CustomDebugStringConvertibleP", "transitionDuration"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_performAnimation"]
+- ["s23CustomStringConvertibleP", "animateTransition"]
+- ["s23CustomStringConvertibleP", "animationEnded"]
+- ["s23CustomStringConvertibleP", "cleanup"]
+- !private ["s23CustomStringConvertibleP", "duration"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "interactionController"]
+- ["s23CustomStringConvertibleP", "interruptibleAnimator"]
+- ["s23CustomStringConvertibleP", "interruptibleAnimatorForTransition"]
+- ["s23CustomStringConvertibleP", "start"]
+- ["s23CustomStringConvertibleP", "transitionDuration"]
+- ["SQ", ""]
+- !private ["SQ", "_performAnimation"]
+- ["SQ", "animateTransition"]
+- ["SQ", "animationEnded"]
+- ["SQ", "cleanup"]
+- !private ["SQ", "duration"]
+- !private ["SQ", "init"]
+- ["SQ", "interactionController"]
+- ["SQ", "interruptibleAnimator"]
+- ["SQ", "interruptibleAnimatorForTransition"]
+- ["SQ", "start"]
+- ["SQ", "transitionDuration"]
+- ["SH", ""]
+- !private ["SH", "_performAnimation"]
+- ["SH", "animateTransition"]
+- ["SH", "animationEnded"]
+- ["SH", "cleanup"]
+- !private ["SH", "duration"]
+- !private ["SH", "init"]
+- ["SH", "interactionController"]
+- ["SH", "interruptibleAnimator"]
+- ["SH", "interruptibleAnimatorForTransition"]
+- ["SH", "start"]
+- ["SH", "transitionDuration"]
+- ["So8NSObjectC", "PercentDrivenInteractionController"]
+- ["So8NSObjectC", "TimeInterval"]
+- ["So8NSObjectC", "UIViewControllerContextTransitioning"]
+- ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "_performAnimation"]
+- ["So8NSObjectC", "animateTransition"]
+- ["So8NSObjectC", "animationEnded"]
+- ["So8NSObjectC", "cleanup"]
+- ["So8NSObjectC", "duration"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "interactionController"]
+- ["So8NSObjectC", "interruptibleAnimator"]
+- ["So8NSObjectC", "interruptibleAnimatorForTransition"]
+- ["So8NSObjectC", "performTransition"]
+- ["So8NSObjectC", "start"]
+- ["So8NSObjectC", "transitionDuration"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "_performAnimation"]
+- ["So8NSObjectP", "animateTransition"]
+- ["So8NSObjectP", "animationEnded"]
+- ["So8NSObjectP", "cleanup"]
+- !private ["So8NSObjectP", "duration"]
+- !private ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "interactionController"]
+- ["So8NSObjectP", "interruptibleAnimator"]
+- ["So8NSObjectP", "interruptibleAnimatorForTransition"]
+- ["So8NSObjectP", "start"]
+- ["So8NSObjectP", "transitionDuration"]
+- ["7RxSwift18ReactiveCompatibleP", ""]
+- !private ["7RxSwift18ReactiveCompatibleP", "_performAnimation"]
+- ["7RxSwift18ReactiveCompatibleP", "animateTransition"]
+- ["7RxSwift18ReactiveCompatibleP", "animationEnded"]
+- ["7RxSwift18ReactiveCompatibleP", "cleanup"]
+- !private ["7RxSwift18ReactiveCompatibleP", "duration"]
+- !private ["7RxSwift18ReactiveCompatibleP", "init"]
+- ["7RxSwift18ReactiveCompatibleP", "interactionController"]
+- ["7RxSwift18ReactiveCompatibleP", "interruptibleAnimator"]
+- ["7RxSwift18ReactiveCompatibleP", "interruptibleAnimatorForTransition"]
+- ["7RxSwift18ReactiveCompatibleP", "start"]
+- ["7RxSwift18ReactiveCompatibleP", "transitionDuration"]
+- ["12XCoordinator25StaticTransitionAnimationC", "PercentDrivenInteractionController"]
+- ["12XCoordinator25StaticTransitionAnimationC", "TimeInterval"]
+- ["12XCoordinator25StaticTransitionAnimationC", "UIViewControllerContextTransitioning"]
+- ["12XCoordinator25StaticTransitionAnimationC", "Void"]
+- !private ["12XCoordinator25StaticTransitionAnimationC", "_performAnimation"]
+- ["12XCoordinator25StaticTransitionAnimationC", "animateTransition"]
+- ["12XCoordinator25StaticTransitionAnimationC", "animationEnded"]
+- ["12XCoordinator25StaticTransitionAnimationC", "cleanup"]
+- ["12XCoordinator25StaticTransitionAnimationC", "deinit"]
+- ["12XCoordinator25StaticTransitionAnimationC", "duration"]
+- ["12XCoordinator25StaticTransitionAnimationC", "init"]
+- ["12XCoordinator25StaticTransitionAnimationC", "interactionController"]
+- ["12XCoordinator25StaticTransitionAnimationC", "interruptibleAnimator"]
+- ["12XCoordinator25StaticTransitionAnimationC", "interruptibleAnimatorForTransition"]
+- ["12XCoordinator25StaticTransitionAnimationC", "performTransition"]
+- ["12XCoordinator25StaticTransitionAnimationC", "start"]
+- ["12XCoordinator25StaticTransitionAnimationC", "transitionDuration"]
+- ["12XCoordinator19TransitionAnimationP", ""]
+- !private ["12XCoordinator19TransitionAnimationP", "_performAnimation"]
+- ["12XCoordinator19TransitionAnimationP", "animateTransition"]
+- ["12XCoordinator19TransitionAnimationP", "animationEnded"]
+- ["12XCoordinator19TransitionAnimationP", "cleanup"]
+- !private ["12XCoordinator19TransitionAnimationP", "duration"]
+- ["12XCoordinator19TransitionAnimationP", "interactionController"]
+- ["12XCoordinator19TransitionAnimationP", "interruptibleAnimator"]
+- ["12XCoordinator19TransitionAnimationP", "interruptibleAnimatorForTransition"]
+- ["12XCoordinator19TransitionAnimationP", "start"]
+- ["12XCoordinator19TransitionAnimationP", "transitionDuration"]
+- ["So37UIViewControllerAnimatedTransitioningP", ""]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "_performAnimation"]
+- ["So37UIViewControllerAnimatedTransitioningP", "animateTransition"]
+- ["So37UIViewControllerAnimatedTransitioningP", "animationEnded"]
+- ["So37UIViewControllerAnimatedTransitioningP", "cleanup"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "duration"]
+- ["So37UIViewControllerAnimatedTransitioningP", "interactionController"]
+- ["So37UIViewControllerAnimatedTransitioningP", "interruptibleAnimator"]
+- ["So37UIViewControllerAnimatedTransitioningP", "interruptibleAnimatorForTransition"]
+- ["So37UIViewControllerAnimatedTransitioningP", "start"]
+- ["So37UIViewControllerAnimatedTransitioningP", "transitionDuration"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_performAnimation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animateTransition"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animationEnded"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "cleanup"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "duration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interactionController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interruptibleAnimator"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interruptibleAnimatorForTransition"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "start"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "transitionDuration"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "7RxSwift18ReactiveCompatibleP"
+- "12XCoordinator25StaticTransitionAnimationC"
+- "12XCoordinator19TransitionAnimationP"
+- "So37UIViewControllerAnimatedTransitioningP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b19fa7fb090a6d57f9c58a7889ba7de9"

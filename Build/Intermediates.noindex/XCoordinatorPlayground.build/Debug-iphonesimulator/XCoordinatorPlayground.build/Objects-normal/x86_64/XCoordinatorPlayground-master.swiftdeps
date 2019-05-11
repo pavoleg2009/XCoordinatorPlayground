@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "f53c56ba4f950c328c9d3b7603b27b83"
+build_time: [1557579531, 110423000]
+inputs:
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Coordinator/RootCoordinator/RootCoordinator.swift": [1557578279, 421558552]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Scenes/SignIn/SignInViewController.swift": [1557495279, 38480756]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Coordinator/AppCoordinator.swift": [1557578317, 745171631]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Scenes/Loading/LoadingViewModel.swift": [1557500284, 281141269]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Utills/BindableType.swift": [1557491314, 847974864]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Coordinator/RootCoordinator/RootTransition.swift": [1557579530, 984064572]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Utills/NibIdentifiable.swift": [1557491320, 917987603]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Scenes/SignIn/SignInViewModel.swift": [1557495279, 16540340]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/AppDelegate.swift": [1557492242, 95030423]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Scenes/Landing/LandingViewModel.swift": [1557494494, 958582212]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Scenes/Main/MainViewController.swift": [1557493726, 805575504]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Coordinator/AuthCoordinator.swift": [1557495723, 923494540]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Scenes/Landing/LandingViewController.swift": [1557500284, 318568987]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Scenes/Main/MainViewModel.swift": [1557500284, 329660207]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/XCoordinatorPlayground/Scenes/Loading/LoadingViewController.swift": [1557500096, 604216085]

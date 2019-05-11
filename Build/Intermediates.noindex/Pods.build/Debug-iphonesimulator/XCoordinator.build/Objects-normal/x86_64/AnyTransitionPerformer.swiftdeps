@@ -1,0 +1,104 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AnyTransitionPerformer"
+provides-nominal:
+- "12XCoordinator22AnyTransitionPerformerC"
+provides-member:
+- ["12XCoordinator22AnyTransitionPerformerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyTransitionPerformer"
+- "AssignmentPrecedence"
+- "Presentable"
+- "PresentationHandler"
+- "TransitionOptions"
+- "TransitionPerformer"
+- "TransitionProtocol"
+- "UIViewController"
+- "Void"
+depends-member:
+- ["12XCoordinator22AnyTransitionPerformerC", "Presentable"]
+- ["12XCoordinator22AnyTransitionPerformerC", "PresentationHandler"]
+- ["12XCoordinator22AnyTransitionPerformerC", "TransitionOptions"]
+- ["12XCoordinator22AnyTransitionPerformerC", "TransitionPerformer"]
+- ["12XCoordinator22AnyTransitionPerformerC", "TransitionType"]
+- ["12XCoordinator22AnyTransitionPerformerC", "UIViewController"]
+- ["12XCoordinator22AnyTransitionPerformerC", "Void"]
+- ["12XCoordinator22AnyTransitionPerformerC", "_Default_TransitionType"]
+- !private ["12XCoordinator22AnyTransitionPerformerC", "_perform"]
+- !private ["12XCoordinator22AnyTransitionPerformerC", "_presented"]
+- !private ["12XCoordinator22AnyTransitionPerformerC", "_rootViewController"]
+- !private ["12XCoordinator22AnyTransitionPerformerC", "_viewController"]
+- ["12XCoordinator22AnyTransitionPerformerC", "deinit"]
+- ["12XCoordinator22AnyTransitionPerformerC", "init"]
+- ["12XCoordinator22AnyTransitionPerformerC", "performTransition"]
+- ["12XCoordinator22AnyTransitionPerformerC", "presented"]
+- ["12XCoordinator22AnyTransitionPerformerC", "rootViewController"]
+- ["12XCoordinator22AnyTransitionPerformerC", "router"]
+- ["12XCoordinator22AnyTransitionPerformerC", "setRoot"]
+- ["12XCoordinator22AnyTransitionPerformerC", "viewController"]
+- ["12XCoordinator11PresentableP", "TransitionType"]
+- ["12XCoordinator11PresentableP", ""]
+- ["12XCoordinator11PresentableP", "_Default_TransitionType"]
+- !private ["12XCoordinator11PresentableP", "_perform"]
+- !private ["12XCoordinator11PresentableP", "_presented"]
+- !private ["12XCoordinator11PresentableP", "_rootViewController"]
+- !private ["12XCoordinator11PresentableP", "_viewController"]
+- ["12XCoordinator11PresentableP", "performTransition"]
+- ["12XCoordinator11PresentableP", "presented"]
+- ["12XCoordinator11PresentableP", "rootViewController"]
+- ["12XCoordinator11PresentableP", "router"]
+- ["12XCoordinator11PresentableP", "setRoot"]
+- ["12XCoordinator11PresentableP", "viewController"]
+- ["12XCoordinator19TransitionPerformerP", "TransitionType"]
+- ["12XCoordinator19TransitionPerformerP", ""]
+- ["12XCoordinator19TransitionPerformerP", "_Default_TransitionType"]
+- !private ["12XCoordinator19TransitionPerformerP", "_perform"]
+- !private ["12XCoordinator19TransitionPerformerP", "_presented"]
+- !private ["12XCoordinator19TransitionPerformerP", "_rootViewController"]
+- !private ["12XCoordinator19TransitionPerformerP", "_viewController"]
+- ["12XCoordinator19TransitionPerformerP", "performTransition"]
+- ["12XCoordinator19TransitionPerformerP", "presented"]
+- ["12XCoordinator19TransitionPerformerP", "rootViewController"]
+- ["12XCoordinator19TransitionPerformerP", "router"]
+- ["12XCoordinator19TransitionPerformerP", "setRoot"]
+- ["12XCoordinator19TransitionPerformerP", "viewController"]
+- ["12XCoordinator18TransitionProtocolP", "RootViewController"]
+depends-nominal:
+- "12XCoordinator22AnyTransitionPerformerC"
+- "12XCoordinator11PresentableP"
+- "12XCoordinator19TransitionPerformerP"
+- "12XCoordinator18TransitionProtocolP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7e8cdcccc567fb2934e4d2a225d3438e"

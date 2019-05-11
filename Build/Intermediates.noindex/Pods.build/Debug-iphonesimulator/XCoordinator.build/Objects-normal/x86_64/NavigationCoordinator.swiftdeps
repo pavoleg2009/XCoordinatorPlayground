@@ -1,0 +1,182 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NavigationCoordinator"
+provides-nominal:
+- "12XCoordinator21NavigationCoordinatorC"
+provides-member:
+- ["12XCoordinator21NavigationCoordinatorC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "BaseCoordinator"
+- "NavigationAnimationDelegate"
+- "NavigationCoordinator"
+- "NavigationTransition"
+- "Presentable"
+- "Route"
+- "UINavigationController"
+- "UINavigationControllerDelegate"
+depends-member:
+- ["12XCoordinator15BaseCoordinatorC", "NavigationAnimationDelegate"]
+- ["12XCoordinator15BaseCoordinatorC", "Presentable"]
+- ["12XCoordinator15BaseCoordinatorC", "UINavigationController"]
+- ["12XCoordinator15BaseCoordinatorC", "UINavigationControllerDelegate"]
+- ["12XCoordinator15BaseCoordinatorC", ""]
+- ["12XCoordinator15BaseCoordinatorC", "animationDelegate"]
+- ["12XCoordinator15BaseCoordinatorC", "delegate"]
+- ["12XCoordinator15BaseCoordinatorC", "generateRootViewController"]
+- ["12XCoordinator15BaseCoordinatorC", "init"]
+- !private ["s7CVarArgP", "delegate"]
+- ["s7CVarArgP", "init"]
+- !private ["12XCoordinator9ContainerP", "delegate"]
+- ["12XCoordinator11CoordinatorP", "NavigationAnimationDelegate"]
+- ["12XCoordinator11CoordinatorP", ""]
+- !private ["12XCoordinator11CoordinatorP", "animationDelegate"]
+- !private ["12XCoordinator11CoordinatorP", "generateRootViewController"]
+- !private ["12XCoordinator11CoordinatorP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "push"]
+- !private ["s17CustomReflectableP", "push"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["Se", "push"]
+- !private ["SE", "push"]
+- !private ["SQ", "delegate"]
+- ["SQ", "init"]
+- !private ["SQ", "push"]
+- !private ["s23ExpressibleByNilLiteralP", "push"]
+- !private ["SH", "delegate"]
+- ["SH", "init"]
+- !private ["SH", "push"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So26NSExtensionRequestHandlingP", "delegate"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectP", "delegate"]
+- ["So8NSObjectP", "init"]
+- !private ["12XCoordinator27NavigationAnimationDelegateC", "deinit"]
+- !private ["12XCoordinator27NavigationAnimationDelegateC", "delegate"]
+- ["12XCoordinator27NavigationAnimationDelegateC", "init"]
+- ["12XCoordinator21NavigationCoordinatorC", "NavigationAnimationDelegate"]
+- ["12XCoordinator21NavigationCoordinatorC", "Presentable"]
+- ["12XCoordinator21NavigationCoordinatorC", "UINavigationController"]
+- ["12XCoordinator21NavigationCoordinatorC", "UINavigationControllerDelegate"]
+- !private ["12XCoordinator21NavigationCoordinatorC", "animationDelegate"]
+- ["12XCoordinator21NavigationCoordinatorC", "delegate"]
+- ["12XCoordinator21NavigationCoordinatorC", "generateRootViewController"]
+- ["12XCoordinator21NavigationCoordinatorC", "init"]
+- !private ["Sq", "push"]
+- ["12XCoordinator11PresentableP", "NavigationAnimationDelegate"]
+- ["12XCoordinator11PresentableP", ""]
+- !private ["12XCoordinator11PresentableP", "animationDelegate"]
+- !private ["12XCoordinator11PresentableP", "delegate"]
+- !private ["12XCoordinator11PresentableP", "generateRootViewController"]
+- !private ["12XCoordinator11PresentableP", "init"]
+- !private ["7RxSwift18ReactiveCompatibleP", "delegate"]
+- ["7RxSwift18ReactiveCompatibleP", "init"]
+- ["12XCoordinator6RouterP", "NavigationAnimationDelegate"]
+- ["12XCoordinator6RouterP", ""]
+- !private ["12XCoordinator6RouterP", "animationDelegate"]
+- !private ["12XCoordinator6RouterP", "generateRootViewController"]
+- !private ["12XCoordinator6RouterP", "init"]
+- ["12XCoordinator10TransitionV", "deinit"]
+- !private ["12XCoordinator10TransitionV", "push"]
+- ["12XCoordinator19TransitionPerformerP", "NavigationAnimationDelegate"]
+- ["12XCoordinator19TransitionPerformerP", ""]
+- !private ["12XCoordinator19TransitionPerformerP", "animationDelegate"]
+- !private ["12XCoordinator19TransitionPerformerP", "generateRootViewController"]
+- !private ["12XCoordinator19TransitionPerformerP", "init"]
+- !private ["12XCoordinator18TransitionProtocolP", "push"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So18UIContentContainerP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So27UIGestureRecognizerDelegateP", "delegate"]
+- ["So27UIGestureRecognizerDelegateP", "init"]
+- !private ["So22UINavigationControllerC", "delegate"]
+- !private ["So30UINavigationControllerDelegateP", "delegate"]
+- ["So30UINavigationControllerDelegateP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So11UIResponderC", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So16UIStateRestoringP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- !private ["So16UIViewControllerC", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "push"]
+depends-nominal:
+- "12XCoordinator15BaseCoordinatorC"
+- "s7CVarArgP"
+- !private "12XCoordinator9ContainerP"
+- "12XCoordinator11CoordinatorP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "12XCoordinator27NavigationAnimationDelegateC"
+- "12XCoordinator21NavigationCoordinatorC"
+- !private "Sq"
+- "12XCoordinator11PresentableP"
+- "7RxSwift18ReactiveCompatibleP"
+- "12XCoordinator6RouterP"
+- "12XCoordinator10TransitionV"
+- "12XCoordinator19TransitionPerformerP"
+- !private "12XCoordinator18TransitionProtocolP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So22UINavigationControllerC"
+- "So30UINavigationControllerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ac461935e64d4b00d492aa726200f4ee"

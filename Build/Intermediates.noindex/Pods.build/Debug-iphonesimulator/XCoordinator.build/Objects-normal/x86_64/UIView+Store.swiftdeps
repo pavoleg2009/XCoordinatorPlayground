@@ -1,0 +1,287 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "strongReferences"]
+- ["So6UIViewC", "removePreviewingContext"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "??"
+- "CastingPrecedence"
+- !private "CoordinatorPreviewingDelegateObject"
+- "TransitionProtocol"
+- "UIView"
+- "UIViewControllerPreviewing"
+- "UInt8"
+- !private "associatedObjectHandle"
+- !private "objc_getAssociatedObject"
+- !private "objc_setAssociatedObject"
+depends-member:
+- !private ["Sa", "index"]
+- !private ["Sa", "remove"]
+- !private ["SK", "index"]
+- !private ["SK", "remove"]
+- !private ["So15CALayerDelegateP", "associatedObjectHandle"]
+- !private ["So15CALayerDelegateP", "objc_getAssociatedObject"]
+- !private ["So15CALayerDelegateP", "objc_setAssociatedObject"]
+- !private ["So15CALayerDelegateP", "strongReferences"]
+- !private ["s7CVarArgP", "associatedObjectHandle"]
+- !private ["s7CVarArgP", "context"]
+- !private ["s7CVarArgP", "index"]
+- !private ["s7CVarArgP", "objc_getAssociatedObject"]
+- !private ["s7CVarArgP", "objc_setAssociatedObject"]
+- !private ["s7CVarArgP", "remove"]
+- !private ["s7CVarArgP", "strongReferences"]
+- !private ["Sl", "index"]
+- !private ["Sl", "remove"]
+- !private ["12XCoordinator9ContainerP", "associatedObjectHandle"]
+- !private ["12XCoordinator9ContainerP", "objc_getAssociatedObject"]
+- !private ["12XCoordinator9ContainerP", "objc_setAssociatedObject"]
+- !private ["12XCoordinator9ContainerP", "strongReferences"]
+- !private ["10Foundation15ContiguousBytesP", "index"]
+- !private ["10Foundation15ContiguousBytesP", "remove"]
+- !private ["12XCoordinator35CoordinatorPreviewingDelegateObjectC", "context"]
+- !private ["s28CustomDebugStringConvertibleP", "associatedObjectHandle"]
+- !private ["s28CustomDebugStringConvertibleP", "context"]
+- !private ["s28CustomDebugStringConvertibleP", "index"]
+- !private ["s28CustomDebugStringConvertibleP", "objc_getAssociatedObject"]
+- !private ["s28CustomDebugStringConvertibleP", "objc_setAssociatedObject"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "strongReferences"]
+- !private ["s17CustomReflectableP", "index"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s23CustomStringConvertibleP", "associatedObjectHandle"]
+- !private ["s23CustomStringConvertibleP", "context"]
+- !private ["s23CustomStringConvertibleP", "index"]
+- !private ["s23CustomStringConvertibleP", "objc_getAssociatedObject"]
+- !private ["s23CustomStringConvertibleP", "objc_setAssociatedObject"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["s23CustomStringConvertibleP", "strongReferences"]
+- !private ["10Foundation12DataProtocolP", "index"]
+- !private ["10Foundation12DataProtocolP", "remove"]
+- !private ["Se", "index"]
+- !private ["Se", "remove"]
+- !private ["SE", "index"]
+- !private ["SE", "remove"]
+- !private ["SQ", "OBJC_ASSOCIATION_RETAIN_NONATOMIC"]
+- !private ["SQ", "associatedObjectHandle"]
+- !private ["SQ", "context"]
+- !private ["SQ", "index"]
+- !private ["SQ", "objc_getAssociatedObject"]
+- !private ["SQ", "objc_setAssociatedObject"]
+- !private ["SQ", "remove"]
+- !private ["SQ", "strongReferences"]
+- !private ["s25ExpressibleByArrayLiteralP", "index"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["SH", "OBJC_ASSOCIATION_RETAIN_NONATOMIC"]
+- !private ["SH", "associatedObjectHandle"]
+- !private ["SH", "context"]
+- !private ["SH", "index"]
+- !private ["SH", "objc_getAssociatedObject"]
+- !private ["SH", "objc_setAssociatedObject"]
+- !private ["SH", "remove"]
+- !private ["SH", "strongReferences"]
+- !private ["SM", "index"]
+- !private ["SM", "remove"]
+- !private ["10Foundation19MutableDataProtocolP", "index"]
+- !private ["10Foundation19MutableDataProtocolP", "remove"]
+- !private ["So8NSCodingP", "associatedObjectHandle"]
+- !private ["So8NSCodingP", "objc_getAssociatedObject"]
+- !private ["So8NSCodingP", "objc_setAssociatedObject"]
+- !private ["So8NSCodingP", "strongReferences"]
+- !private ["So8NSObjectC", "CoordinatorPreviewingDelegateObject"]
+- ["So8NSObjectC", "TransitionProtocol"]
+- ["So8NSObjectC", "UIViewControllerPreviewing"]
+- !private ["So8NSObjectC", "associatedObjectHandle"]
+- !private ["So8NSObjectC", "context"]
+- !private ["So8NSObjectC", "objc_getAssociatedObject"]
+- !private ["So8NSObjectC", "objc_setAssociatedObject"]
+- ["So8NSObjectC", "removePreviewingContext"]
+- ["So8NSObjectC", "strongReferences"]
+- !private ["So8NSObjectP", "associatedObjectHandle"]
+- !private ["So8NSObjectP", "context"]
+- !private ["So8NSObjectP", "objc_getAssociatedObject"]
+- !private ["So8NSObjectP", "objc_setAssociatedObject"]
+- !private ["So8NSObjectP", "strongReferences"]
+- !private ["Sk", "index"]
+- !private ["Sk", "remove"]
+- !private ["Sm", "index"]
+- !private ["Sm", "remove"]
+- !private ["SY", "OBJC_ASSOCIATION_RETAIN_NONATOMIC"]
+- !private ["7RxSwift18ReactiveCompatibleP", "associatedObjectHandle"]
+- !private ["7RxSwift18ReactiveCompatibleP", "context"]
+- !private ["7RxSwift18ReactiveCompatibleP", "objc_getAssociatedObject"]
+- !private ["7RxSwift18ReactiveCompatibleP", "objc_setAssociatedObject"]
+- !private ["7RxSwift18ReactiveCompatibleP", "strongReferences"]
+- !private ["ST", "index"]
+- !private ["ST", "remove"]
+- !private ["So29UIAccessibilityIdentificationP", "associatedObjectHandle"]
+- !private ["So29UIAccessibilityIdentificationP", "objc_getAssociatedObject"]
+- !private ["So29UIAccessibilityIdentificationP", "objc_setAssociatedObject"]
+- !private ["So29UIAccessibilityIdentificationP", "strongReferences"]
+- !private ["So12UIAppearanceP", "associatedObjectHandle"]
+- !private ["So12UIAppearanceP", "objc_getAssociatedObject"]
+- !private ["So12UIAppearanceP", "objc_setAssociatedObject"]
+- !private ["So12UIAppearanceP", "strongReferences"]
+- !private ["So21UIAppearanceContainerP", "associatedObjectHandle"]
+- !private ["So21UIAppearanceContainerP", "objc_getAssociatedObject"]
+- !private ["So21UIAppearanceContainerP", "objc_setAssociatedObject"]
+- !private ["So21UIAppearanceContainerP", "strongReferences"]
+- !private ["So17UICoordinateSpaceP", "associatedObjectHandle"]
+- !private ["So17UICoordinateSpaceP", "objc_getAssociatedObject"]
+- !private ["So17UICoordinateSpaceP", "objc_setAssociatedObject"]
+- !private ["So17UICoordinateSpaceP", "strongReferences"]
+- !private ["So13UIDynamicItemP", "associatedObjectHandle"]
+- !private ["So13UIDynamicItemP", "objc_getAssociatedObject"]
+- !private ["So13UIDynamicItemP", "objc_setAssociatedObject"]
+- !private ["So13UIDynamicItemP", "strongReferences"]
+- !private ["So18UIFocusEnvironmentP", "associatedObjectHandle"]
+- !private ["So18UIFocusEnvironmentP", "objc_getAssociatedObject"]
+- !private ["So18UIFocusEnvironmentP", "objc_setAssociatedObject"]
+- !private ["So18UIFocusEnvironmentP", "strongReferences"]
+- !private ["So11UIFocusItemP", "associatedObjectHandle"]
+- !private ["So11UIFocusItemP", "objc_getAssociatedObject"]
+- !private ["So11UIFocusItemP", "objc_setAssociatedObject"]
+- !private ["So11UIFocusItemP", "strongReferences"]
+- !private ["So20UIFocusItemContainerP", "associatedObjectHandle"]
+- !private ["So20UIFocusItemContainerP", "objc_getAssociatedObject"]
+- !private ["So20UIFocusItemContainerP", "objc_setAssociatedObject"]
+- !private ["So20UIFocusItemContainerP", "strongReferences"]
+- !private ["So30UIPasteConfigurationSupportingP", "associatedObjectHandle"]
+- !private ["So30UIPasteConfigurationSupportingP", "objc_getAssociatedObject"]
+- !private ["So30UIPasteConfigurationSupportingP", "objc_setAssociatedObject"]
+- !private ["So30UIPasteConfigurationSupportingP", "strongReferences"]
+- !private ["So11UIResponderC", "CoordinatorPreviewingDelegateObject"]
+- ["So11UIResponderC", "TransitionProtocol"]
+- ["So11UIResponderC", "UIViewControllerPreviewing"]
+- !private ["So11UIResponderC", "associatedObjectHandle"]
+- !private ["So11UIResponderC", "objc_getAssociatedObject"]
+- !private ["So11UIResponderC", "objc_setAssociatedObject"]
+- ["So11UIResponderC", "removePreviewingContext"]
+- ["So11UIResponderC", "strongReferences"]
+- !private ["So30UIResponderStandardEditActionsP", "associatedObjectHandle"]
+- !private ["So30UIResponderStandardEditActionsP", "objc_getAssociatedObject"]
+- !private ["So30UIResponderStandardEditActionsP", "objc_setAssociatedObject"]
+- !private ["So30UIResponderStandardEditActionsP", "strongReferences"]
+- !private ["So18UITraitEnvironmentP", "associatedObjectHandle"]
+- !private ["So18UITraitEnvironmentP", "objc_getAssociatedObject"]
+- !private ["So18UITraitEnvironmentP", "objc_setAssociatedObject"]
+- !private ["So18UITraitEnvironmentP", "strongReferences"]
+- !private ["So23UIUserActivityRestoringP", "associatedObjectHandle"]
+- !private ["So23UIUserActivityRestoringP", "objc_getAssociatedObject"]
+- !private ["So23UIUserActivityRestoringP", "objc_setAssociatedObject"]
+- !private ["So23UIUserActivityRestoringP", "strongReferences"]
+- !private ["So6UIViewC", "CoordinatorPreviewingDelegateObject"]
+- ["So6UIViewC", "TransitionProtocol"]
+- ["So6UIViewC", "UIViewControllerPreviewing"]
+- !private ["So6UIViewC", "associatedObjectHandle"]
+- !private ["So6UIViewC", "objc_getAssociatedObject"]
+- !private ["So6UIViewC", "objc_setAssociatedObject"]
+- ["So6UIViewC", "removePreviewingContext"]
+- ["So6UIViewC", "strongReferences"]
+- !private ["So34UIViewControllerPreviewingDelegateP", "context"]
+- !private ["s14_ArrayProtocolP", "index"]
+- !private ["s14_ArrayProtocolP", "remove"]
+- !private ["s24_DestructorSafeContainerP", "index"]
+- !private ["s24_DestructorSafeContainerP", "remove"]
+- !private ["s19_HasContiguousBytesP", "index"]
+- !private ["s19_HasContiguousBytesP", "remove"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "index"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "remove"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "associatedObjectHandle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "context"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "objc_getAssociatedObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "objc_setAssociatedObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "strongReferences"]
+- !private ["s21_ObjectiveCBridgeableP", "index"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "associatedObjectHandle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "objc_getAssociatedObject"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "objc_setAssociatedObject"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "strongReferences"]
+- !private ["So22objc_AssociationPolicyV", "OBJC_ASSOCIATION_RETAIN_NONATOMIC"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "12XCoordinator9ContainerP"
+- !private "10Foundation15ContiguousBytesP"
+- !private "12XCoordinator35CoordinatorPreviewingDelegateObjectC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "7RxSwift18ReactiveCompatibleP"
+- !private "ST"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "So34UIViewControllerPreviewingDelegateP"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+- !private "So22objc_AssociationPolicyV"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a166a5562f9e09eaf243c54d7f1a7757"

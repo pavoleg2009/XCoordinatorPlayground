@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "3abe110e55ab42f2f67026be3c9e0d48"
+build_time: [1557491504, 354321000]
+inputs:
+  "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Action/Sources/Action/Action+Extensions.swift": [1557491486, 988360383]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Action/Sources/Action/Action+Internal.swift": [1557491486, 985917418]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Action/Sources/Action/Action.swift": [1557491486, 988812546]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Action/Sources/Action/CommonUI/Button+Action.swift": [1557491486, 987595118]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Action/Sources/Action/CommonUI/Control+Action.swift": [1557491486, 987187171]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Action/Sources/Action/InputSubject.swift": [1557491486, 984911669]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Action/Sources/Action/UIKitExtensions/UIAlertAction+Action.swift": [1557491486, 990845755]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Action/Sources/Action/UIKitExtensions/UIBarButtonItem+Action.swift": [1557491486, 990251103]
+  "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Action/Sources/Action/UIKitExtensions/UIRefreshControl+Action.swift": [1557491486, 989577214]

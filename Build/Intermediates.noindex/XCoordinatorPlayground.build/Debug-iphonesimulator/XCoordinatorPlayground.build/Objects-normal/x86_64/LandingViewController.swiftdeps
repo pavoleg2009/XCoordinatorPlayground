@@ -1,0 +1,507 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LandingViewController"
+provides-nominal:
+- "22XCoordinatorPlayground21LandingViewControllerC"
+provides-member:
+- ["22XCoordinatorPlayground21LandingViewControllerC", ""]
+provides-dynamic-lookup:
+- "signInButton"
+- "signUpButton"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "BindableType"
+- "DisposeBag"
+- "LandingViewController"
+- "LandingViewModel"
+- !private "StringLiteralType"
+- "UIButton"
+- "UIViewController"
+depends-member:
+- ["22XCoordinatorPlayground12BindableTypeP", "DisposeBag"]
+- ["22XCoordinatorPlayground12BindableTypeP", "ViewModelType"]
+- ["22XCoordinatorPlayground12BindableTypeP", ""]
+- ["22XCoordinatorPlayground12BindableTypeP", "_Default_ViewModelType"]
+- ["22XCoordinatorPlayground12BindableTypeP", "bindViewModel"]
+- !private ["22XCoordinatorPlayground12BindableTypeP", "disposeBag"]
+- !private ["22XCoordinatorPlayground12BindableTypeP", "signInButton"]
+- !private ["22XCoordinatorPlayground12BindableTypeP", "signUpButton"]
+- !private ["22XCoordinatorPlayground12BindableTypeP", "title"]
+- ["22XCoordinatorPlayground12BindableTypeP", "viewModel"]
+- !private ["So15CALayerDelegateP", "rx"]
+- ["s7CVarArgP", "DisposeBag"]
+- ["s7CVarArgP", "ViewModelType"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "_Default_ViewModelType"]
+- ["s7CVarArgP", "bindViewModel"]
+- !private ["s7CVarArgP", "disposeBag"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "rx"]
+- !private ["s7CVarArgP", "signInButton"]
+- !private ["s7CVarArgP", "signUpButton"]
+- !private ["s7CVarArgP", "title"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", "viewModel"]
+- ["12XCoordinator9ContainerP", "DisposeBag"]
+- ["12XCoordinator9ContainerP", "ViewModelType"]
+- ["12XCoordinator9ContainerP", ""]
+- ["12XCoordinator9ContainerP", "_Default_ViewModelType"]
+- ["12XCoordinator9ContainerP", "bindViewModel"]
+- !private ["12XCoordinator9ContainerP", "disposeBag"]
+- !private ["12XCoordinator9ContainerP", "init"]
+- !private ["12XCoordinator9ContainerP", "rx"]
+- !private ["12XCoordinator9ContainerP", "signInButton"]
+- !private ["12XCoordinator9ContainerP", "signUpButton"]
+- !private ["12XCoordinator9ContainerP", "title"]
+- !private ["12XCoordinator9ContainerP", "viewDidLoad"]
+- ["12XCoordinator9ContainerP", "viewModel"]
+- !private ["7RxCocoa12ControlEventV", "bind"]
+- !private ["7RxCocoa16ControlEventTypeP", "bind"]
+- ["s28CustomDebugStringConvertibleP", "DisposeBag"]
+- ["s28CustomDebugStringConvertibleP", "ViewModelType"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_Default_ViewModelType"]
+- ["s28CustomDebugStringConvertibleP", "bindViewModel"]
+- !private ["s28CustomDebugStringConvertibleP", "disposeBag"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "rx"]
+- !private ["s28CustomDebugStringConvertibleP", "signInButton"]
+- !private ["s28CustomDebugStringConvertibleP", "signInTrigger"]
+- !private ["s28CustomDebugStringConvertibleP", "signUpButton"]
+- !private ["s28CustomDebugStringConvertibleP", "signUpTrigger"]
+- !private ["s28CustomDebugStringConvertibleP", "title"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", "viewModel"]
+- !private ["s17CustomReflectableP", "rx"]
+- !private ["s17CustomReflectableP", "signInTrigger"]
+- !private ["s17CustomReflectableP", "signUpTrigger"]
+- ["s23CustomStringConvertibleP", "DisposeBag"]
+- ["s23CustomStringConvertibleP", "ViewModelType"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_ViewModelType"]
+- ["s23CustomStringConvertibleP", "bindViewModel"]
+- !private ["s23CustomStringConvertibleP", "disposeBag"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "rx"]
+- !private ["s23CustomStringConvertibleP", "signInButton"]
+- !private ["s23CustomStringConvertibleP", "signUpButton"]
+- !private ["s23CustomStringConvertibleP", "title"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", "viewModel"]
+- !private ["Se", "rx"]
+- !private ["Se", "signInTrigger"]
+- !private ["Se", "signUpTrigger"]
+- !private ["7RxSwift10DisposableP", "disposed"]
+- ["7RxSwift10DisposeBagC", "init"]
+- ["7RxSwift11DisposeBaseC", "init"]
+- !private ["SE", "rx"]
+- !private ["SE", "signInTrigger"]
+- !private ["SE", "signUpTrigger"]
+- ["SQ", "DisposeBag"]
+- ["SQ", "ViewModelType"]
+- ["SQ", ""]
+- ["SQ", "_Default_ViewModelType"]
+- ["SQ", "bindViewModel"]
+- !private ["SQ", "disposeBag"]
+- !private ["SQ", "init"]
+- !private ["SQ", "rx"]
+- !private ["SQ", "signInButton"]
+- !private ["SQ", "signInTrigger"]
+- !private ["SQ", "signUpButton"]
+- !private ["SQ", "signUpTrigger"]
+- !private ["SQ", "title"]
+- !private ["SQ", "viewDidLoad"]
+- ["SQ", "viewModel"]
+- !private ["s23ExpressibleByNilLiteralP", "rx"]
+- !private ["s23ExpressibleByNilLiteralP", "signInTrigger"]
+- !private ["s23ExpressibleByNilLiteralP", "signUpTrigger"]
+- ["SH", "DisposeBag"]
+- ["SH", "ViewModelType"]
+- ["SH", ""]
+- ["SH", "_Default_ViewModelType"]
+- ["SH", "bindViewModel"]
+- !private ["SH", "disposeBag"]
+- !private ["SH", "init"]
+- !private ["SH", "rx"]
+- !private ["SH", "signInButton"]
+- !private ["SH", "signInTrigger"]
+- !private ["SH", "signUpButton"]
+- !private ["SH", "signUpTrigger"]
+- !private ["SH", "title"]
+- !private ["SH", "viewDidLoad"]
+- ["SH", "viewModel"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "DisposeBag"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "LandingViewModel"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "UIButton"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "ViewModelType"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "_Default_ViewModelType"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "bindViewModel"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "deinit"]
+- !private ["22XCoordinatorPlayground21LandingViewControllerC", "disposeBag"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "init"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "signInButton"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "signUpButton"]
+- !private ["22XCoordinatorPlayground21LandingViewControllerC", "title"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "viewDidLoad"]
+- ["22XCoordinatorPlayground21LandingViewControllerC", "viewModel"]
+- !private ["22XCoordinatorPlayground16LandingViewModelC", "signInTrigger"]
+- !private ["22XCoordinatorPlayground16LandingViewModelC", "signUpTrigger"]
+- ["So8NSCodingP", "DisposeBag"]
+- ["So8NSCodingP", "ViewModelType"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "_Default_ViewModelType"]
+- ["So8NSCodingP", "bindViewModel"]
+- !private ["So8NSCodingP", "disposeBag"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "rx"]
+- !private ["So8NSCodingP", "signInButton"]
+- !private ["So8NSCodingP", "signUpButton"]
+- !private ["So8NSCodingP", "title"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", "viewModel"]
+- ["So26NSExtensionRequestHandlingP", "DisposeBag"]
+- ["So26NSExtensionRequestHandlingP", "ViewModelType"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "_Default_ViewModelType"]
+- ["So26NSExtensionRequestHandlingP", "bindViewModel"]
+- !private ["So26NSExtensionRequestHandlingP", "disposeBag"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "signInButton"]
+- !private ["So26NSExtensionRequestHandlingP", "signUpButton"]
+- !private ["So26NSExtensionRequestHandlingP", "title"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", "viewModel"]
+- ["So8NSObjectC", "DisposeBag"]
+- ["So8NSObjectC", "LandingViewModel"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "ViewModelType"]
+- ["So8NSObjectC", "_Default_ViewModelType"]
+- ["So8NSObjectC", "bindViewModel"]
+- ["So8NSObjectC", "disposeBag"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "rx"]
+- ["So8NSObjectC", "signInButton"]
+- ["So8NSObjectC", "signUpButton"]
+- !private ["So8NSObjectC", "title"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewModel"]
+- ["So8NSObjectP", "DisposeBag"]
+- ["So8NSObjectP", "ViewModelType"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "_Default_ViewModelType"]
+- ["So8NSObjectP", "bindViewModel"]
+- !private ["So8NSObjectP", "disposeBag"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "rx"]
+- !private ["So8NSObjectP", "signInButton"]
+- !private ["So8NSObjectP", "signUpButton"]
+- !private ["So8NSObjectP", "title"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- ["So8NSObjectP", "viewModel"]
+- ["22XCoordinatorPlayground15NibIdentifiableP", "DisposeBag"]
+- ["22XCoordinatorPlayground15NibIdentifiableP", "ViewModelType"]
+- ["22XCoordinatorPlayground15NibIdentifiableP", ""]
+- ["22XCoordinatorPlayground15NibIdentifiableP", "_Default_ViewModelType"]
+- ["22XCoordinatorPlayground15NibIdentifiableP", "bindViewModel"]
+- !private ["22XCoordinatorPlayground15NibIdentifiableP", "disposeBag"]
+- !private ["22XCoordinatorPlayground15NibIdentifiableP", "init"]
+- !private ["22XCoordinatorPlayground15NibIdentifiableP", "rx"]
+- !private ["22XCoordinatorPlayground15NibIdentifiableP", "signInButton"]
+- !private ["22XCoordinatorPlayground15NibIdentifiableP", "signUpButton"]
+- !private ["22XCoordinatorPlayground15NibIdentifiableP", "title"]
+- !private ["22XCoordinatorPlayground15NibIdentifiableP", "viewDidLoad"]
+- ["22XCoordinatorPlayground15NibIdentifiableP", "viewModel"]
+- !private ["7RxSwift25ObservableConvertibleTypeP", "bind"]
+- !private ["7RxSwift14ObservableTypeP", "bind"]
+- !private ["Sq", "rx"]
+- !private ["Sq", "signInTrigger"]
+- !private ["Sq", "signUpTrigger"]
+- ["12XCoordinator11PresentableP", "DisposeBag"]
+- ["12XCoordinator11PresentableP", "ViewModelType"]
+- ["12XCoordinator11PresentableP", ""]
+- ["12XCoordinator11PresentableP", "_Default_ViewModelType"]
+- ["12XCoordinator11PresentableP", "bindViewModel"]
+- !private ["12XCoordinator11PresentableP", "disposeBag"]
+- !private ["12XCoordinator11PresentableP", "init"]
+- !private ["12XCoordinator11PresentableP", "signInButton"]
+- !private ["12XCoordinator11PresentableP", "signUpButton"]
+- !private ["12XCoordinator11PresentableP", "title"]
+- !private ["12XCoordinator11PresentableP", "viewDidLoad"]
+- ["12XCoordinator11PresentableP", "viewModel"]
+- !private ["7RxSwift8ReactiveV", "tap"]
+- ["7RxSwift18ReactiveCompatibleP", "DisposeBag"]
+- ["7RxSwift18ReactiveCompatibleP", "ViewModelType"]
+- ["7RxSwift18ReactiveCompatibleP", ""]
+- ["7RxSwift18ReactiveCompatibleP", "_Default_ViewModelType"]
+- ["7RxSwift18ReactiveCompatibleP", "bindViewModel"]
+- !private ["7RxSwift18ReactiveCompatibleP", "disposeBag"]
+- !private ["7RxSwift18ReactiveCompatibleP", "init"]
+- !private ["7RxSwift18ReactiveCompatibleP", "rx"]
+- !private ["7RxSwift18ReactiveCompatibleP", "signInButton"]
+- !private ["7RxSwift18ReactiveCompatibleP", "signUpButton"]
+- !private ["7RxSwift18ReactiveCompatibleP", "title"]
+- !private ["7RxSwift18ReactiveCompatibleP", "viewDidLoad"]
+- ["7RxSwift18ReactiveCompatibleP", "viewModel"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "rx"]
+- !private ["So29UIAccessibilityIdentificationP", "rx"]
+- !private ["So12UIAppearanceP", "rx"]
+- ["So21UIAppearanceContainerP", "DisposeBag"]
+- ["So21UIAppearanceContainerP", "ViewModelType"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "_Default_ViewModelType"]
+- ["So21UIAppearanceContainerP", "bindViewModel"]
+- !private ["So21UIAppearanceContainerP", "disposeBag"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "rx"]
+- !private ["So21UIAppearanceContainerP", "signInButton"]
+- !private ["So21UIAppearanceContainerP", "signUpButton"]
+- !private ["So21UIAppearanceContainerP", "title"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", "viewModel"]
+- !private ["So8UIButtonC", "rx"]
+- ["So18UIContentContainerP", "DisposeBag"]
+- ["So18UIContentContainerP", "ViewModelType"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "_Default_ViewModelType"]
+- ["So18UIContentContainerP", "bindViewModel"]
+- !private ["So18UIContentContainerP", "disposeBag"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "signInButton"]
+- !private ["So18UIContentContainerP", "signUpButton"]
+- !private ["So18UIContentContainerP", "title"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", "viewModel"]
+- !private ["So9UIControlC", "rx"]
+- !private ["So17UICoordinateSpaceP", "rx"]
+- !private ["So13UIDynamicItemP", "rx"]
+- ["So18UIFocusEnvironmentP", "DisposeBag"]
+- ["So18UIFocusEnvironmentP", "ViewModelType"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "_Default_ViewModelType"]
+- ["So18UIFocusEnvironmentP", "bindViewModel"]
+- !private ["So18UIFocusEnvironmentP", "disposeBag"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "rx"]
+- !private ["So18UIFocusEnvironmentP", "signInButton"]
+- !private ["So18UIFocusEnvironmentP", "signUpButton"]
+- !private ["So18UIFocusEnvironmentP", "title"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", "viewModel"]
+- !private ["So11UIFocusItemP", "rx"]
+- !private ["So20UIFocusItemContainerP", "rx"]
+- ["So30UIPasteConfigurationSupportingP", "DisposeBag"]
+- ["So30UIPasteConfigurationSupportingP", "ViewModelType"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "_Default_ViewModelType"]
+- ["So30UIPasteConfigurationSupportingP", "bindViewModel"]
+- !private ["So30UIPasteConfigurationSupportingP", "disposeBag"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "rx"]
+- !private ["So30UIPasteConfigurationSupportingP", "signInButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "signUpButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "title"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", "viewModel"]
+- ["So11UIResponderC", "DisposeBag"]
+- ["So11UIResponderC", "LandingViewModel"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "ViewModelType"]
+- ["So11UIResponderC", "_Default_ViewModelType"]
+- ["So11UIResponderC", "bindViewModel"]
+- ["So11UIResponderC", "disposeBag"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "rx"]
+- ["So11UIResponderC", "signInButton"]
+- ["So11UIResponderC", "signUpButton"]
+- !private ["So11UIResponderC", "title"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewModel"]
+- ["So30UIResponderStandardEditActionsP", "DisposeBag"]
+- ["So30UIResponderStandardEditActionsP", "ViewModelType"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "_Default_ViewModelType"]
+- ["So30UIResponderStandardEditActionsP", "bindViewModel"]
+- !private ["So30UIResponderStandardEditActionsP", "disposeBag"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "rx"]
+- !private ["So30UIResponderStandardEditActionsP", "signInButton"]
+- !private ["So30UIResponderStandardEditActionsP", "signUpButton"]
+- !private ["So30UIResponderStandardEditActionsP", "title"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "viewModel"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "rx"]
+- ["So16UIStateRestoringP", "DisposeBag"]
+- ["So16UIStateRestoringP", "ViewModelType"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "_Default_ViewModelType"]
+- ["So16UIStateRestoringP", "bindViewModel"]
+- !private ["So16UIStateRestoringP", "disposeBag"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "signInButton"]
+- !private ["So16UIStateRestoringP", "signUpButton"]
+- !private ["So16UIStateRestoringP", "title"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", "viewModel"]
+- ["So18UITraitEnvironmentP", "DisposeBag"]
+- ["So18UITraitEnvironmentP", "ViewModelType"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "_Default_ViewModelType"]
+- ["So18UITraitEnvironmentP", "bindViewModel"]
+- !private ["So18UITraitEnvironmentP", "disposeBag"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "rx"]
+- !private ["So18UITraitEnvironmentP", "signInButton"]
+- !private ["So18UITraitEnvironmentP", "signUpButton"]
+- !private ["So18UITraitEnvironmentP", "title"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", "viewModel"]
+- ["So23UIUserActivityRestoringP", "DisposeBag"]
+- ["So23UIUserActivityRestoringP", "ViewModelType"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "_Default_ViewModelType"]
+- ["So23UIUserActivityRestoringP", "bindViewModel"]
+- !private ["So23UIUserActivityRestoringP", "disposeBag"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "rx"]
+- !private ["So23UIUserActivityRestoringP", "signInButton"]
+- !private ["So23UIUserActivityRestoringP", "signUpButton"]
+- !private ["So23UIUserActivityRestoringP", "title"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "viewModel"]
+- !private ["So6UIViewC", "rx"]
+- ["So16UIViewControllerC", "DisposeBag"]
+- ["So16UIViewControllerC", "LandingViewModel"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "ViewModelType"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "_Default_ViewModelType"]
+- ["So16UIViewControllerC", "bindViewModel"]
+- ["So16UIViewControllerC", "disposeBag"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "signInButton"]
+- ["So16UIViewControllerC", "signUpButton"]
+- !private ["So16UIViewControllerC", "title"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewModel"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "DisposeBag"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ViewModelType"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "_Default_ViewModelType"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "bindViewModel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "disposeBag"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rx"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "signInButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "signUpButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "title"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "viewModel"]
+- !private ["s21_ObjectiveCBridgeableP", "rx"]
+- !private ["s21_ObjectiveCBridgeableP", "signInTrigger"]
+- !private ["s21_ObjectiveCBridgeableP", "signUpTrigger"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "rx"]
+depends-nominal:
+- "22XCoordinatorPlayground12BindableTypeP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "12XCoordinator9ContainerP"
+- !private "7RxCocoa12ControlEventV"
+- !private "7RxCocoa16ControlEventTypeP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "7RxSwift10DisposableP"
+- "7RxSwift10DisposeBagC"
+- "7RxSwift11DisposeBaseC"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "22XCoordinatorPlayground21LandingViewControllerC"
+- !private "22XCoordinatorPlayground16LandingViewModelC"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "22XCoordinatorPlayground15NibIdentifiableP"
+- !private "7RxSwift25ObservableConvertibleTypeP"
+- !private "7RxSwift14ObservableTypeP"
+- !private "Sq"
+- "12XCoordinator11PresentableP"
+- !private "7RxSwift8ReactiveV"
+- "7RxSwift18ReactiveCompatibleP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/RxCocoa.swiftmodule/x86_64.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/Action/Action.framework/Modules/Action.swiftmodule/x86_64.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/XCoordinator/XCoordinator.framework/Modules/XCoordinator.swiftmodule/x86_64.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RX.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/Action/Action.framework/Headers/Action-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/XCoordinator/XCoordinator.framework/Headers/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXObjCRuntime.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoaRuntime.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXKVOObserver.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/Action/Action.framework/Headers/Action-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/XCoordinator/XCoordinator.framework/Headers/XCoordinator-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXDelegateProxy.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/Action/Action.framework/Modules/module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/XCoordinator/XCoordinator.framework/Modules/module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "65409abe1b6fdfeaf53363ddcc692d13"

@@ -1,0 +1,256 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NavigationTransition"
+provides-nominal:
+provides-member:
+- ["12XCoordinator10TransitionV", ""]
+- ["12XCoordinator10TransitionV", "push"]
+- ["12XCoordinator10TransitionV", "pop"]
+- ["12XCoordinator10TransitionV", "pop"]
+- ["12XCoordinator10TransitionV", "popToRoot"]
+- ["12XCoordinator10TransitionV", "set"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Animation"
+- !private "BooleanLiteralType"
+- "NavigationTransition"
+- "Presentable"
+- "Transition"
+- "UINavigationController"
+depends-member:
+- !private ["12XCoordinator9AnimationC", "dismissalAnimation"]
+- !private ["12XCoordinator9AnimationC", "presentationAnimation"]
+- !private ["Sa", "forEach"]
+- !private ["Sa", "map"]
+- !private ["SK", "forEach"]
+- !private ["SK", "map"]
+- !private ["s7CVarArgP", "dismissalAnimation"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "pop"]
+- !private ["s7CVarArgP", "presentationAnimation"]
+- !private ["s7CVarArgP", "push"]
+- !private ["s7CVarArgP", "set"]
+- !private ["Sl", "forEach"]
+- !private ["Sl", "map"]
+- !private ["12XCoordinator9ContainerP", "pop"]
+- !private ["12XCoordinator9ContainerP", "push"]
+- !private ["12XCoordinator9ContainerP", "set"]
+- !private ["10Foundation15ContiguousBytesP", "forEach"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "dismissalAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "pop"]
+- !private ["s28CustomDebugStringConvertibleP", "presentationAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "push"]
+- !private ["s28CustomDebugStringConvertibleP", "set"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s23CustomStringConvertibleP", "dismissalAnimation"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "pop"]
+- !private ["s23CustomStringConvertibleP", "presentationAnimation"]
+- !private ["s23CustomStringConvertibleP", "push"]
+- !private ["s23CustomStringConvertibleP", "set"]
+- !private ["10Foundation12DataProtocolP", "forEach"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["Se", "forEach"]
+- !private ["Se", "map"]
+- !private ["SE", "forEach"]
+- !private ["SE", "map"]
+- !private ["SQ", "dismissalAnimation"]
+- !private ["SQ", "forEach"]
+- !private ["SQ", "map"]
+- !private ["SQ", "pop"]
+- !private ["SQ", "presentationAnimation"]
+- !private ["SQ", "push"]
+- !private ["SQ", "set"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["SH", "dismissalAnimation"]
+- !private ["SH", "forEach"]
+- !private ["SH", "map"]
+- !private ["SH", "pop"]
+- !private ["SH", "presentationAnimation"]
+- !private ["SH", "push"]
+- !private ["SH", "set"]
+- !private ["SM", "forEach"]
+- !private ["SM", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "forEach"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["So8NSCodingP", "pop"]
+- !private ["So8NSCodingP", "push"]
+- !private ["So8NSCodingP", "set"]
+- !private ["So26NSExtensionRequestHandlingP", "pop"]
+- !private ["So26NSExtensionRequestHandlingP", "push"]
+- !private ["So26NSExtensionRequestHandlingP", "set"]
+- !private ["So8NSObjectC", "dismissalAnimation"]
+- !private ["So8NSObjectC", "pop"]
+- !private ["So8NSObjectC", "presentationAnimation"]
+- !private ["So8NSObjectC", "push"]
+- !private ["So8NSObjectC", "set"]
+- !private ["So8NSObjectP", "dismissalAnimation"]
+- !private ["So8NSObjectP", "pop"]
+- !private ["So8NSObjectP", "presentationAnimation"]
+- !private ["So8NSObjectP", "push"]
+- !private ["So8NSObjectP", "set"]
+- !private ["12XCoordinator11PresentableP", "pop"]
+- !private ["12XCoordinator11PresentableP", "presented"]
+- !private ["12XCoordinator11PresentableP", "push"]
+- !private ["12XCoordinator11PresentableP", "set"]
+- !private ["12XCoordinator11PresentableP", "viewController"]
+- !private ["Sk", "forEach"]
+- !private ["Sk", "map"]
+- !private ["Sm", "forEach"]
+- !private ["Sm", "map"]
+- !private ["7RxSwift18ReactiveCompatibleP", "dismissalAnimation"]
+- !private ["7RxSwift18ReactiveCompatibleP", "pop"]
+- !private ["7RxSwift18ReactiveCompatibleP", "presentationAnimation"]
+- !private ["7RxSwift18ReactiveCompatibleP", "push"]
+- !private ["7RxSwift18ReactiveCompatibleP", "set"]
+- !private ["ST", "forEach"]
+- !private ["ST", "map"]
+- ["12XCoordinator10TransitionV", "Animation"]
+- ["12XCoordinator10TransitionV", "NavigationTransition"]
+- ["12XCoordinator10TransitionV", "Presentable"]
+- ["12XCoordinator10TransitionV", "UINavigationController"]
+- !private ["12XCoordinator10TransitionV", "init"]
+- ["12XCoordinator10TransitionV", "pop"]
+- ["12XCoordinator10TransitionV", "popToRoot"]
+- ["12XCoordinator10TransitionV", "push"]
+- ["12XCoordinator10TransitionV", "set"]
+- !private ["12XCoordinator18TransitionProtocolP", "NavigationTransition"]
+- !private ["12XCoordinator18TransitionProtocolP", "init"]
+- !private ["So21UIAppearanceContainerP", "pop"]
+- !private ["So21UIAppearanceContainerP", "push"]
+- !private ["So21UIAppearanceContainerP", "set"]
+- !private ["So18UIContentContainerP", "pop"]
+- !private ["So18UIContentContainerP", "push"]
+- !private ["So18UIContentContainerP", "set"]
+- !private ["So18UIFocusEnvironmentP", "pop"]
+- !private ["So18UIFocusEnvironmentP", "push"]
+- !private ["So18UIFocusEnvironmentP", "set"]
+- !private ["So22UINavigationControllerC", "pop"]
+- !private ["So22UINavigationControllerC", "push"]
+- !private ["So22UINavigationControllerC", "set"]
+- !private ["So30UIPasteConfigurationSupportingP", "pop"]
+- !private ["So30UIPasteConfigurationSupportingP", "push"]
+- !private ["So30UIPasteConfigurationSupportingP", "set"]
+- !private ["So11UIResponderC", "pop"]
+- !private ["So11UIResponderC", "push"]
+- !private ["So11UIResponderC", "set"]
+- !private ["So30UIResponderStandardEditActionsP", "pop"]
+- !private ["So30UIResponderStandardEditActionsP", "push"]
+- !private ["So30UIResponderStandardEditActionsP", "set"]
+- !private ["So16UIStateRestoringP", "pop"]
+- !private ["So16UIStateRestoringP", "push"]
+- !private ["So16UIStateRestoringP", "set"]
+- !private ["So18UITraitEnvironmentP", "pop"]
+- !private ["So18UITraitEnvironmentP", "push"]
+- !private ["So18UITraitEnvironmentP", "set"]
+- !private ["So23UIUserActivityRestoringP", "pop"]
+- !private ["So23UIUserActivityRestoringP", "push"]
+- !private ["So23UIUserActivityRestoringP", "set"]
+- !private ["So16UIViewControllerC", "pop"]
+- !private ["So16UIViewControllerC", "push"]
+- !private ["So16UIViewControllerC", "set"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "dismissalAnimation"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "presentationAnimation"]
+- !private ["s14_ArrayProtocolP", "forEach"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s19_HasContiguousBytesP", "forEach"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forEach"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismissalAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pop"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentationAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "push"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "set"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+depends-nominal:
+- !private "12XCoordinator9AnimationC"
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "12XCoordinator9ContainerP"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "12XCoordinator11PresentableP"
+- !private "Sk"
+- !private "Sm"
+- !private "7RxSwift18ReactiveCompatibleP"
+- !private "ST"
+- "12XCoordinator10TransitionV"
+- !private "12XCoordinator18TransitionProtocolP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So22UINavigationControllerC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So16UIViewControllerC"
+- !private "So37UIViewControllerTransitioningDelegateP"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "95c2a3491f2e841444213de629a1ed47"

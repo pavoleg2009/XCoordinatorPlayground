@@ -1,0 +1,229 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TabBarAnimationDelegate"
+provides-nominal:
+- "12XCoordinator23TabBarAnimationDelegateC"
+provides-member:
+- ["12XCoordinator23TabBarAnimationDelegateC", ""]
+- ["So18UITabBarControllerC", ""]
+- ["So18UITabBarControllerC", "animationDelegate"]
+provides-dynamic-lookup:
+- "tabBarController"
+depends-top-level:
+- !private "??"
+- "Animation"
+- "Bool"
+- "CastingPrecedence"
+- "NSObject"
+- "TabBarAnimationDelegate"
+- !private "TransitionAnimation"
+- "UITabBarController"
+- "UITabBarControllerDelegate"
+- "UIViewController"
+- "UIViewControllerAnimatedTransitioning"
+- "UIViewControllerInteractiveTransitioning"
+depends-member:
+- !private ["12XCoordinator9AnimationC", "presentationAnimation"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "animation"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "presentationAnimation"]
+- ["s7CVarArgP", "tabBarController"]
+- ["s7CVarArgP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["s7CVarArgP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["12XCoordinator9ContainerP", "delegate"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "animation"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "presentationAnimation"]
+- ["s28CustomDebugStringConvertibleP", "tabBarController"]
+- ["s28CustomDebugStringConvertibleP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["s28CustomDebugStringConvertibleP", "tabBarControllerSupportedInterfaceOrientations"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "animation"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "presentationAnimation"]
+- ["s23CustomStringConvertibleP", "tabBarController"]
+- ["s23CustomStringConvertibleP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["s23CustomStringConvertibleP", "tabBarControllerSupportedInterfaceOrientations"]
+- ["SQ", ""]
+- !private ["SQ", "animation"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "presentationAnimation"]
+- ["SQ", "tabBarController"]
+- ["SQ", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["SQ", "tabBarControllerSupportedInterfaceOrientations"]
+- ["SH", ""]
+- !private ["SH", "animation"]
+- !private ["SH", "delegate"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "presentationAnimation"]
+- ["SH", "tabBarController"]
+- ["SH", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["SH", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So26NSExtensionRequestHandlingP", "delegate"]
+- ["So8NSObjectC", "Animation"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "TabBarAnimationDelegate"]
+- !private ["So8NSObjectC", "TransitionAnimation"]
+- ["So8NSObjectC", "UITabBarController"]
+- ["So8NSObjectC", "UITabBarControllerDelegate"]
+- ["So8NSObjectC", "UIViewController"]
+- ["So8NSObjectC", "UIViewControllerAnimatedTransitioning"]
+- ["So8NSObjectC", "UIViewControllerInteractiveTransitioning"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "animation"]
+- ["So8NSObjectC", "animationDelegate"]
+- ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "presentationAnimation"]
+- ["So8NSObjectC", "tabBarController"]
+- ["So8NSObjectC", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSObjectC", "tabBarControllerSupportedInterfaceOrientations"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "animation"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "interactionController"]
+- !private ["So8NSObjectP", "presentationAnimation"]
+- ["So8NSObjectP", "tabBarController"]
+- ["So8NSObjectP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSObjectP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["12XCoordinator11PresentableP", "delegate"]
+- ["7RxSwift18ReactiveCompatibleP", ""]
+- !private ["7RxSwift18ReactiveCompatibleP", "animation"]
+- !private ["7RxSwift18ReactiveCompatibleP", "delegate"]
+- !private ["7RxSwift18ReactiveCompatibleP", "init"]
+- !private ["7RxSwift18ReactiveCompatibleP", "init"]
+- !private ["7RxSwift18ReactiveCompatibleP", "presentationAnimation"]
+- ["7RxSwift18ReactiveCompatibleP", "tabBarController"]
+- ["7RxSwift18ReactiveCompatibleP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["7RxSwift18ReactiveCompatibleP", "tabBarControllerSupportedInterfaceOrientations"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "Animation"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "Bool"]
+- !private ["12XCoordinator23TabBarAnimationDelegateC", "TransitionAnimation"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "UITabBarController"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "UITabBarControllerDelegate"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "UIViewController"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "UIViewControllerAnimatedTransitioning"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "UIViewControllerInteractiveTransitioning"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "animation"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "deinit"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "delegate"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "init"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "tabBarController"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["12XCoordinator23TabBarAnimationDelegateC", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["12XCoordinator19TransitionAnimationP", "interactionController"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So18UIContentContainerP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- ["So11UIResponderC", "TabBarAnimationDelegate"]
+- ["So11UIResponderC", "animationDelegate"]
+- !private ["So11UIResponderC", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So16UIStateRestoringP", "delegate"]
+- ["So18UITabBarControllerC", "TabBarAnimationDelegate"]
+- ["So18UITabBarControllerC", "animationDelegate"]
+- !private ["So18UITabBarControllerC", "delegate"]
+- ["So26UITabBarControllerDelegateP", ""]
+- !private ["So26UITabBarControllerDelegateP", "animation"]
+- !private ["So26UITabBarControllerDelegateP", "delegate"]
+- ["So26UITabBarControllerDelegateP", "tabBarController"]
+- ["So26UITabBarControllerDelegateP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["So26UITabBarControllerDelegateP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["So16UITabBarDelegateP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- ["So16UIViewControllerC", "TabBarAnimationDelegate"]
+- ["So16UIViewControllerC", "animationDelegate"]
+- !private ["So16UIViewControllerC", "delegate"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "interactionController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "presentationAnimation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentationAnimation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tabBarController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tabBarControllerSupportedInterfaceOrientations"]
+depends-nominal:
+- !private "12XCoordinator9AnimationC"
+- "s7CVarArgP"
+- !private "12XCoordinator9ContainerP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "12XCoordinator11PresentableP"
+- "7RxSwift18ReactiveCompatibleP"
+- "12XCoordinator23TabBarAnimationDelegateC"
+- !private "12XCoordinator19TransitionAnimationP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- "So18UITabBarControllerC"
+- "So26UITabBarControllerDelegateP"
+- !private "So16UITabBarDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- !private "So37UIViewControllerAnimatedTransitioningP"
+- !private "So37UIViewControllerTransitioningDelegateP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9f473d9b7b5c01438018bc031830255b"

@@ -1,0 +1,622 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BaseCoordinator"
+provides-nominal:
+- "12XCoordinator15BaseCoordinatorC"
+provides-member:
+- ["12XCoordinator15BaseCoordinatorC", ""]
+- ["12XCoordinator15BaseCoordinatorC", "RootViewController"]
+- ["12XCoordinator15BaseCoordinatorC", "registerInteractiveTransition"]
+- ["12XCoordinator15BaseCoordinatorC", "registerInteractiveTransition"]
+- ["12XCoordinator15BaseCoordinatorC", "unregisterInteractiveTransitions"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "==="
+- "AssignmentPrecedence"
+- "BaseCoordinator"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CGFloat"
+- "Coordinator"
+- !private "FloatLiteralType"
+- "GestureRecognizerTarget"
+- !private "IntegerLiteralType"
+- !private "NotificationCenter"
+- "Presentable"
+- "PresentationHandler"
+- "ReferenceBox"
+- "Route"
+- !private "StringLiteralType"
+- !private "Target"
+- "TransitionAnimation"
+- !private "TransitionOptions"
+- "TransitionProtocol"
+- !private "UIApplication"
+- "UIGestureRecognizer"
+- !private "UIWindow"
+- "Void"
+- !private "fatalError"
+depends-member:
+- !private ["Sa", "append"]
+- ["Sa", "init"]
+- !private ["Sa", "removeAll"]
+- ["12XCoordinator15BaseCoordinatorC", "Bool"]
+- ["12XCoordinator15BaseCoordinatorC", "CGFloat"]
+- ["12XCoordinator15BaseCoordinatorC", "GestureRecognizerTarget"]
+- !private ["12XCoordinator15BaseCoordinatorC", "NotificationCenter"]
+- ["12XCoordinator15BaseCoordinatorC", "Presentable"]
+- ["12XCoordinator15BaseCoordinatorC", "PresentationHandler"]
+- ["12XCoordinator15BaseCoordinatorC", "ReferenceBox"]
+- ["12XCoordinator15BaseCoordinatorC", "RootViewController"]
+- ["12XCoordinator15BaseCoordinatorC", "RouteType"]
+- !private ["12XCoordinator15BaseCoordinatorC", "Target"]
+- ["12XCoordinator15BaseCoordinatorC", "TransitionAnimation"]
+- !private ["12XCoordinator15BaseCoordinatorC", "TransitionOptions"]
+- ["12XCoordinator15BaseCoordinatorC", "TransitionType"]
+- !private ["12XCoordinator15BaseCoordinatorC", "UIApplication"]
+- ["12XCoordinator15BaseCoordinatorC", "UIGestureRecognizer"]
+- !private ["12XCoordinator15BaseCoordinatorC", "UIWindow"]
+- ["12XCoordinator15BaseCoordinatorC", "Void"]
+- ["12XCoordinator15BaseCoordinatorC", "_Default_RouteType"]
+- ["12XCoordinator15BaseCoordinatorC", "_Default_TransitionType"]
+- ["12XCoordinator15BaseCoordinatorC", "contextTrigger"]
+- ["12XCoordinator15BaseCoordinatorC", "deinit"]
+- !private ["12XCoordinator15BaseCoordinatorC", "fatalError"]
+- ["12XCoordinator15BaseCoordinatorC", "generateRootViewController"]
+- !private ["12XCoordinator15BaseCoordinatorC", "gestureRecognizerTargets"]
+- ["12XCoordinator15BaseCoordinatorC", "init"]
+- ["12XCoordinator15BaseCoordinatorC", "performTransition"]
+- !private ["12XCoordinator15BaseCoordinatorC", "performTransitionAfterWindowAppeared"]
+- ["12XCoordinator15BaseCoordinatorC", "prepareTransition"]
+- ["12XCoordinator15BaseCoordinatorC", "presented"]
+- ["12XCoordinator15BaseCoordinatorC", "registerInteractiveTransition"]
+- ["12XCoordinator15BaseCoordinatorC", "rootViewController"]
+- !private ["12XCoordinator15BaseCoordinatorC", "rootViewControllerBox"]
+- ["12XCoordinator15BaseCoordinatorC", "router"]
+- ["12XCoordinator15BaseCoordinatorC", "setRoot"]
+- ["12XCoordinator15BaseCoordinatorC", "unregisterInteractiveTransitions"]
+- ["12XCoordinator15BaseCoordinatorC", "viewController"]
+- !private ["SK", "append"]
+- ["SK", "init"]
+- !private ["SK", "removeAll"]
+- !private ["So15CALayerDelegateP", "didBecomeKeyNotification"]
+- !private ["s7CVarArgP", "addObserver"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "beginAppearanceTransition"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "didBecomeKeyNotification"]
+- !private ["s7CVarArgP", "endAppearanceTransition"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "keyWindow"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "removeAll"]
+- !private ["s7CVarArgP", "removeObserver"]
+- !private ["s7CVarArgP", "removeTarget"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "state"]
+- !private ["Sl", "append"]
+- ["Sl", "init"]
+- !private ["Sl", "removeAll"]
+- !private ["12XCoordinator9ContainerP", "beginAppearanceTransition"]
+- !private ["12XCoordinator9ContainerP", "didBecomeKeyNotification"]
+- !private ["12XCoordinator9ContainerP", "endAppearanceTransition"]
+- !private ["12XCoordinator9ContainerP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "removeAll"]
+- ["12XCoordinator11CoordinatorP", "GestureRecognizerTarget"]
+- !private ["12XCoordinator11CoordinatorP", "NotificationCenter"]
+- ["12XCoordinator11CoordinatorP", "ReferenceBox"]
+- !private ["12XCoordinator11CoordinatorP", "RootViewController"]
+- ["12XCoordinator11CoordinatorP", "RouteType"]
+- !private ["12XCoordinator11CoordinatorP", "Target"]
+- !private ["12XCoordinator11CoordinatorP", "TransitionOptions"]
+- ["12XCoordinator11CoordinatorP", "TransitionType"]
+- !private ["12XCoordinator11CoordinatorP", "UIApplication"]
+- !private ["12XCoordinator11CoordinatorP", "UIWindow"]
+- ["12XCoordinator11CoordinatorP", ""]
+- ["12XCoordinator11CoordinatorP", "_Default_RouteType"]
+- ["12XCoordinator11CoordinatorP", "_Default_TransitionType"]
+- ["12XCoordinator11CoordinatorP", "contextTrigger"]
+- !private ["12XCoordinator11CoordinatorP", "fatalError"]
+- !private ["12XCoordinator11CoordinatorP", "generateRootViewController"]
+- !private ["12XCoordinator11CoordinatorP", "gestureRecognizerTargets"]
+- ["12XCoordinator11CoordinatorP", "performTransition"]
+- !private ["12XCoordinator11CoordinatorP", "performTransitionAfterWindowAppeared"]
+- ["12XCoordinator11CoordinatorP", "prepareTransition"]
+- ["12XCoordinator11CoordinatorP", "presented"]
+- !private ["12XCoordinator11CoordinatorP", "registerInteractiveTransition"]
+- ["12XCoordinator11CoordinatorP", "rootViewController"]
+- !private ["12XCoordinator11CoordinatorP", "rootViewControllerBox"]
+- ["12XCoordinator11CoordinatorP", "router"]
+- ["12XCoordinator11CoordinatorP", "setRoot"]
+- ["12XCoordinator11CoordinatorP", "viewController"]
+- !private ["s28CustomDebugStringConvertibleP", "addObserver"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "beginAppearanceTransition"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "didBecomeKeyNotification"]
+- !private ["s28CustomDebugStringConvertibleP", "endAppearanceTransition"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "keyWindow"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "removeAll"]
+- !private ["s28CustomDebugStringConvertibleP", "removeObserver"]
+- !private ["s28CustomDebugStringConvertibleP", "removeTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "state"]
+- !private ["s17CustomReflectableP", "append"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "main"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "removeAll"]
+- !private ["s23CustomStringConvertibleP", "addObserver"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "beginAppearanceTransition"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "didBecomeKeyNotification"]
+- !private ["s23CustomStringConvertibleP", "endAppearanceTransition"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "keyWindow"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "removeAll"]
+- !private ["s23CustomStringConvertibleP", "removeObserver"]
+- !private ["s23CustomStringConvertibleP", "removeTarget"]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "state"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "removeAll"]
+- !private ["Se", "append"]
+- ["Se", "init"]
+- !private ["Se", "main"]
+- !private ["Se", "map"]
+- !private ["Se", "removeAll"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SE", "append"]
+- ["SE", "init"]
+- !private ["SE", "main"]
+- !private ["SE", "map"]
+- !private ["SE", "removeAll"]
+- !private ["SQ", "addObserver"]
+- !private ["SQ", "append"]
+- !private ["SQ", "began"]
+- !private ["SQ", "beginAppearanceTransition"]
+- !private ["SQ", "cancelled"]
+- !private ["SQ", "changed"]
+- !private ["SQ", "default"]
+- !private ["SQ", "didBecomeKeyNotification"]
+- !private ["SQ", "endAppearanceTransition"]
+- !private ["SQ", "ended"]
+- !private ["SQ", "failed"]
+- ["SQ", "init"]
+- !private ["SQ", "keyWindow"]
+- !private ["SQ", "main"]
+- !private ["SQ", "map"]
+- !private ["SQ", "possible"]
+- !private ["SQ", "removeAll"]
+- !private ["SQ", "removeObserver"]
+- !private ["SQ", "removeTarget"]
+- !private ["SQ", "shared"]
+- !private ["SQ", "state"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "removeAll"]
+- !private ["s23ExpressibleByNilLiteralP", "main"]
+- !private ["s23ExpressibleByNilLiteralP", "map"]
+- !private ["12XCoordinator23GestureRecognizerTargetP", "gestureRecognizer"]
+- !private ["12XCoordinator23GestureRecognizerTargetP", "init"]
+- !private ["SH", "addObserver"]
+- !private ["SH", "append"]
+- !private ["SH", "began"]
+- !private ["SH", "beginAppearanceTransition"]
+- !private ["SH", "cancelled"]
+- !private ["SH", "changed"]
+- !private ["SH", "default"]
+- !private ["SH", "didBecomeKeyNotification"]
+- !private ["SH", "endAppearanceTransition"]
+- !private ["SH", "ended"]
+- !private ["SH", "failed"]
+- ["SH", "init"]
+- !private ["SH", "keyWindow"]
+- !private ["SH", "main"]
+- !private ["SH", "map"]
+- !private ["SH", "possible"]
+- !private ["SH", "removeAll"]
+- !private ["SH", "removeObserver"]
+- !private ["SH", "removeTarget"]
+- !private ["SH", "shared"]
+- !private ["SH", "state"]
+- !private ["SM", "append"]
+- ["SM", "init"]
+- !private ["SM", "removeAll"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "removeAll"]
+- !private ["So8NSCodingP", "beginAppearanceTransition"]
+- !private ["So8NSCodingP", "didBecomeKeyNotification"]
+- !private ["So8NSCodingP", "endAppearanceTransition"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "beginAppearanceTransition"]
+- !private ["So26NSExtensionRequestHandlingP", "endAppearanceTransition"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So8NSObjectC", "addObserver"]
+- !private ["So8NSObjectC", "beginAppearanceTransition"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "didBecomeKeyNotification"]
+- !private ["So8NSObjectC", "endAppearanceTransition"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "keyWindow"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "removeObserver"]
+- !private ["So8NSObjectC", "removeTarget"]
+- !private ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectC", "state"]
+- !private ["So8NSObjectP", "addObserver"]
+- !private ["So8NSObjectP", "beginAppearanceTransition"]
+- !private ["So8NSObjectP", "cancel"]
+- !private ["So8NSObjectP", "cleanup"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "didBecomeKeyNotification"]
+- !private ["So8NSObjectP", "endAppearanceTransition"]
+- !private ["So8NSObjectP", "finish"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "interactionController"]
+- !private ["So8NSObjectP", "keyWindow"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "removeObserver"]
+- !private ["So8NSObjectP", "removeTarget"]
+- !private ["So8NSObjectP", "shared"]
+- !private ["So8NSObjectP", "start"]
+- !private ["So8NSObjectP", "state"]
+- !private ["So8NSObjectP", "update"]
+- !private ["So20NSNotificationCenterC", "addObserver"]
+- !private ["So20NSNotificationCenterC", "default"]
+- !private ["So20NSNotificationCenterC", "removeObserver"]
+- !private ["So16NSOperationQueueC", "main"]
+- !private ["Sq", "main"]
+- !private ["Sq", "map"]
+- !private ["12XCoordinator34PercentDrivenInteractionControllerP", "cancel"]
+- !private ["12XCoordinator34PercentDrivenInteractionControllerP", "finish"]
+- !private ["12XCoordinator34PercentDrivenInteractionControllerP", "update"]
+- ["12XCoordinator11PresentableP", "GestureRecognizerTarget"]
+- !private ["12XCoordinator11PresentableP", "NotificationCenter"]
+- ["12XCoordinator11PresentableP", "ReferenceBox"]
+- !private ["12XCoordinator11PresentableP", "RootViewController"]
+- ["12XCoordinator11PresentableP", "RouteType"]
+- !private ["12XCoordinator11PresentableP", "Target"]
+- !private ["12XCoordinator11PresentableP", "TransitionOptions"]
+- ["12XCoordinator11PresentableP", "TransitionType"]
+- !private ["12XCoordinator11PresentableP", "UIApplication"]
+- !private ["12XCoordinator11PresentableP", "UIWindow"]
+- ["12XCoordinator11PresentableP", ""]
+- ["12XCoordinator11PresentableP", "_Default_RouteType"]
+- ["12XCoordinator11PresentableP", "_Default_TransitionType"]
+- !private ["12XCoordinator11PresentableP", "beginAppearanceTransition"]
+- ["12XCoordinator11PresentableP", "contextTrigger"]
+- !private ["12XCoordinator11PresentableP", "didBecomeKeyNotification"]
+- !private ["12XCoordinator11PresentableP", "endAppearanceTransition"]
+- !private ["12XCoordinator11PresentableP", "fatalError"]
+- !private ["12XCoordinator11PresentableP", "generateRootViewController"]
+- !private ["12XCoordinator11PresentableP", "gestureRecognizerTargets"]
+- !private ["12XCoordinator11PresentableP", "init"]
+- ["12XCoordinator11PresentableP", "performTransition"]
+- !private ["12XCoordinator11PresentableP", "performTransitionAfterWindowAppeared"]
+- ["12XCoordinator11PresentableP", "prepareTransition"]
+- ["12XCoordinator11PresentableP", "presented"]
+- !private ["12XCoordinator11PresentableP", "registerInteractiveTransition"]
+- ["12XCoordinator11PresentableP", "rootViewController"]
+- !private ["12XCoordinator11PresentableP", "rootViewControllerBox"]
+- ["12XCoordinator11PresentableP", "router"]
+- ["12XCoordinator11PresentableP", "setRoot"]
+- ["12XCoordinator11PresentableP", "viewController"]
+- !private ["Sk", "append"]
+- ["Sk", "init"]
+- !private ["Sk", "removeAll"]
+- !private ["Sm", "append"]
+- ["Sm", "init"]
+- !private ["Sm", "removeAll"]
+- !private ["SY", "began"]
+- !private ["SY", "cancelled"]
+- !private ["SY", "changed"]
+- !private ["SY", "ended"]
+- !private ["SY", "failed"]
+- !private ["SY", "possible"]
+- !private ["7RxSwift18ReactiveCompatibleP", "addObserver"]
+- !private ["7RxSwift18ReactiveCompatibleP", "beginAppearanceTransition"]
+- !private ["7RxSwift18ReactiveCompatibleP", "default"]
+- !private ["7RxSwift18ReactiveCompatibleP", "didBecomeKeyNotification"]
+- !private ["7RxSwift18ReactiveCompatibleP", "endAppearanceTransition"]
+- !private ["7RxSwift18ReactiveCompatibleP", "init"]
+- !private ["7RxSwift18ReactiveCompatibleP", "keyWindow"]
+- !private ["7RxSwift18ReactiveCompatibleP", "main"]
+- !private ["7RxSwift18ReactiveCompatibleP", "removeObserver"]
+- !private ["7RxSwift18ReactiveCompatibleP", "removeTarget"]
+- !private ["7RxSwift18ReactiveCompatibleP", "shared"]
+- !private ["7RxSwift18ReactiveCompatibleP", "state"]
+- !private ["12XCoordinator12ReferenceBoxC", "get"]
+- ["12XCoordinator12ReferenceBoxC", "init"]
+- !private ["12XCoordinator12ReferenceBoxC", "releaseStrongReference"]
+- !private ["12XCoordinator12ReferenceBoxC", "set"]
+- ["12XCoordinator6RouterP", "GestureRecognizerTarget"]
+- !private ["12XCoordinator6RouterP", "NotificationCenter"]
+- ["12XCoordinator6RouterP", "ReferenceBox"]
+- !private ["12XCoordinator6RouterP", "RootViewController"]
+- ["12XCoordinator6RouterP", "RouteType"]
+- !private ["12XCoordinator6RouterP", "Target"]
+- !private ["12XCoordinator6RouterP", "TransitionOptions"]
+- ["12XCoordinator6RouterP", "TransitionType"]
+- !private ["12XCoordinator6RouterP", "UIApplication"]
+- !private ["12XCoordinator6RouterP", "UIWindow"]
+- ["12XCoordinator6RouterP", ""]
+- ["12XCoordinator6RouterP", "_Default_RouteType"]
+- ["12XCoordinator6RouterP", "_Default_TransitionType"]
+- ["12XCoordinator6RouterP", "contextTrigger"]
+- !private ["12XCoordinator6RouterP", "fatalError"]
+- !private ["12XCoordinator6RouterP", "generateRootViewController"]
+- !private ["12XCoordinator6RouterP", "gestureRecognizerTargets"]
+- ["12XCoordinator6RouterP", "performTransition"]
+- !private ["12XCoordinator6RouterP", "performTransitionAfterWindowAppeared"]
+- ["12XCoordinator6RouterP", "prepareTransition"]
+- ["12XCoordinator6RouterP", "presented"]
+- !private ["12XCoordinator6RouterP", "registerInteractiveTransition"]
+- ["12XCoordinator6RouterP", "rootViewController"]
+- !private ["12XCoordinator6RouterP", "rootViewControllerBox"]
+- ["12XCoordinator6RouterP", "router"]
+- ["12XCoordinator6RouterP", "setRoot"]
+- ["12XCoordinator6RouterP", "viewController"]
+- !private ["ST", "append"]
+- ["ST", "init"]
+- !private ["ST", "removeAll"]
+- !private ["So24UIGestureRecognizerStateV", "began"]
+- !private ["So24UIGestureRecognizerStateV", "cancelled"]
+- !private ["So24UIGestureRecognizerStateV", "changed"]
+- !private ["So24UIGestureRecognizerStateV", "ended"]
+- !private ["So24UIGestureRecognizerStateV", "failed"]
+- !private ["So24UIGestureRecognizerStateV", "possible"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["12XCoordinator6TargetC", "deinit"]
+- !private ["12XCoordinator6TargetC", "init"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["12XCoordinator19TransitionAnimationP", "cleanup"]
+- !private ["12XCoordinator19TransitionAnimationP", "interactionController"]
+- !private ["12XCoordinator19TransitionAnimationP", "start"]
+- !private ["12XCoordinator17TransitionOptionsV", "init"]
+- ["12XCoordinator19TransitionPerformerP", "GestureRecognizerTarget"]
+- !private ["12XCoordinator19TransitionPerformerP", "NotificationCenter"]
+- ["12XCoordinator19TransitionPerformerP", "ReferenceBox"]
+- !private ["12XCoordinator19TransitionPerformerP", "RootViewController"]
+- ["12XCoordinator19TransitionPerformerP", "RouteType"]
+- !private ["12XCoordinator19TransitionPerformerP", "Target"]
+- !private ["12XCoordinator19TransitionPerformerP", "TransitionOptions"]
+- ["12XCoordinator19TransitionPerformerP", "TransitionType"]
+- !private ["12XCoordinator19TransitionPerformerP", "UIApplication"]
+- !private ["12XCoordinator19TransitionPerformerP", "UIWindow"]
+- ["12XCoordinator19TransitionPerformerP", ""]
+- ["12XCoordinator19TransitionPerformerP", "_Default_RouteType"]
+- ["12XCoordinator19TransitionPerformerP", "_Default_TransitionType"]
+- ["12XCoordinator19TransitionPerformerP", "contextTrigger"]
+- !private ["12XCoordinator19TransitionPerformerP", "fatalError"]
+- !private ["12XCoordinator19TransitionPerformerP", "generateRootViewController"]
+- !private ["12XCoordinator19TransitionPerformerP", "gestureRecognizerTargets"]
+- ["12XCoordinator19TransitionPerformerP", "performTransition"]
+- !private ["12XCoordinator19TransitionPerformerP", "performTransitionAfterWindowAppeared"]
+- ["12XCoordinator19TransitionPerformerP", "prepareTransition"]
+- ["12XCoordinator19TransitionPerformerP", "presented"]
+- !private ["12XCoordinator19TransitionPerformerP", "registerInteractiveTransition"]
+- ["12XCoordinator19TransitionPerformerP", "rootViewController"]
+- !private ["12XCoordinator19TransitionPerformerP", "rootViewControllerBox"]
+- ["12XCoordinator19TransitionPerformerP", "router"]
+- ["12XCoordinator19TransitionPerformerP", "setRoot"]
+- ["12XCoordinator19TransitionPerformerP", "viewController"]
+- !private ["12XCoordinator18TransitionProtocolP", "animation"]
+- !private ["So29UIAccessibilityIdentificationP", "didBecomeKeyNotification"]
+- !private ["So12UIAppearanceP", "didBecomeKeyNotification"]
+- !private ["So21UIAppearanceContainerP", "beginAppearanceTransition"]
+- !private ["So21UIAppearanceContainerP", "didBecomeKeyNotification"]
+- !private ["So21UIAppearanceContainerP", "endAppearanceTransition"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So13UIApplicationC", "keyWindow"]
+- !private ["So13UIApplicationC", "shared"]
+- !private ["So18UIContentContainerP", "beginAppearanceTransition"]
+- !private ["So18UIContentContainerP", "endAppearanceTransition"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So17UICoordinateSpaceP", "didBecomeKeyNotification"]
+- !private ["So13UIDynamicItemP", "didBecomeKeyNotification"]
+- !private ["So18UIFocusEnvironmentP", "beginAppearanceTransition"]
+- !private ["So18UIFocusEnvironmentP", "didBecomeKeyNotification"]
+- !private ["So18UIFocusEnvironmentP", "endAppearanceTransition"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So11UIFocusItemP", "didBecomeKeyNotification"]
+- !private ["So20UIFocusItemContainerP", "didBecomeKeyNotification"]
+- !private ["So19UIGestureRecognizerC", "removeTarget"]
+- !private ["So19UIGestureRecognizerC", "state"]
+- !private ["So30UIPasteConfigurationSupportingP", "beginAppearanceTransition"]
+- !private ["So30UIPasteConfigurationSupportingP", "didBecomeKeyNotification"]
+- !private ["So30UIPasteConfigurationSupportingP", "endAppearanceTransition"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "keyWindow"]
+- !private ["So30UIPasteConfigurationSupportingP", "shared"]
+- !private ["So11UIResponderC", "beginAppearanceTransition"]
+- !private ["So11UIResponderC", "didBecomeKeyNotification"]
+- !private ["So11UIResponderC", "endAppearanceTransition"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "keyWindow"]
+- !private ["So11UIResponderC", "shared"]
+- !private ["So30UIResponderStandardEditActionsP", "beginAppearanceTransition"]
+- !private ["So30UIResponderStandardEditActionsP", "didBecomeKeyNotification"]
+- !private ["So30UIResponderStandardEditActionsP", "endAppearanceTransition"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "keyWindow"]
+- !private ["So30UIResponderStandardEditActionsP", "shared"]
+- !private ["So16UIStateRestoringP", "beginAppearanceTransition"]
+- !private ["So16UIStateRestoringP", "endAppearanceTransition"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So18UITraitEnvironmentP", "beginAppearanceTransition"]
+- !private ["So18UITraitEnvironmentP", "didBecomeKeyNotification"]
+- !private ["So18UITraitEnvironmentP", "endAppearanceTransition"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So23UIUserActivityRestoringP", "beginAppearanceTransition"]
+- !private ["So23UIUserActivityRestoringP", "didBecomeKeyNotification"]
+- !private ["So23UIUserActivityRestoringP", "endAppearanceTransition"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "keyWindow"]
+- !private ["So23UIUserActivityRestoringP", "shared"]
+- !private ["So6UIViewC", "didBecomeKeyNotification"]
+- !private ["So16UIViewControllerC", "beginAppearanceTransition"]
+- !private ["So16UIViewControllerC", "endAppearanceTransition"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "cleanup"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "interactionController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "start"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "cancel"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "finish"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "update"]
+- !private ["So8UIWindowC", "didBecomeKeyNotification"]
+- !private ["s14_ArrayProtocolP", "append"]
+- ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "removeAll"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "removeAll"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "removeAll"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "removeAll"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addObserver"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "beginAppearanceTransition"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didBecomeKeyNotification"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "endAppearanceTransition"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "keyWindow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeObserver"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "state"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "main"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "removeAll"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "didBecomeKeyNotification"]
+depends-nominal:
+- "Sa"
+- "12XCoordinator15BaseCoordinatorC"
+- "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- !private "12XCoordinator9ContainerP"
+- "10Foundation15ContiguousBytesP"
+- "12XCoordinator11CoordinatorP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation12DataProtocolP"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "12XCoordinator23GestureRecognizerTargetP"
+- "SH"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So20NSNotificationCenterC"
+- !private "So16NSOperationQueueC"
+- !private "Sq"
+- !private "12XCoordinator34PercentDrivenInteractionControllerP"
+- "12XCoordinator11PresentableP"
+- "Sk"
+- "Sm"
+- !private "SY"
+- !private "7RxSwift18ReactiveCompatibleP"
+- "12XCoordinator12ReferenceBoxC"
+- "12XCoordinator6RouterP"
+- "ST"
+- !private "So24UIGestureRecognizerStateV"
+- !private "s27StringInterpolationProtocolP"
+- !private "12XCoordinator6TargetC"
+- !private "s16TextOutputStreamP"
+- !private "12XCoordinator19TransitionAnimationP"
+- !private "12XCoordinator17TransitionOptionsV"
+- "12XCoordinator19TransitionPerformerP"
+- !private "12XCoordinator18TransitionProtocolP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So13UIApplicationC"
+- !private "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So19UIGestureRecognizerC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "So16UIViewControllerC"
+- !private "So37UIViewControllerAnimatedTransitioningP"
+- !private "So40UIViewControllerInteractiveTransitioningP"
+- !private "So8UIWindowC"
+- "s14_ArrayProtocolP"
+- "s24_DestructorSafeContainerP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "940d60a2fdf79efa78702e9207b07d77"

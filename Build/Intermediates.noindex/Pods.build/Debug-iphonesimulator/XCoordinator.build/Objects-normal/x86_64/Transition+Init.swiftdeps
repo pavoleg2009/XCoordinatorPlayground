@@ -1,0 +1,416 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["12XCoordinator10TransitionV", ""]
+- ["12XCoordinator11CoordinatorP", ""]
+- ["12XCoordinator10TransitionV", "show"]
+- ["12XCoordinator10TransitionV", "showDetail"]
+- ["12XCoordinator10TransitionV", "presentOnRoot"]
+- ["12XCoordinator10TransitionV", "present"]
+- ["12XCoordinator10TransitionV", "embed"]
+- ["12XCoordinator10TransitionV", "dismissToRoot"]
+- ["12XCoordinator10TransitionV", "dismiss"]
+- ["12XCoordinator10TransitionV", "none"]
+- ["12XCoordinator10TransitionV", "multiple"]
+- ["12XCoordinator10TransitionV", "route"]
+- ["12XCoordinator10TransitionV", "trigger"]
+- ["12XCoordinator10TransitionV", "perform"]
+- ["12XCoordinator10TransitionV", "registerPeek"]
+- ["12XCoordinator10TransitionV", "registerPeek"]
+- ["12XCoordinator11CoordinatorP", "registerPeek"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "??"
+- "Animation"
+- "AnyObject"
+- !private "Array"
+- !private "BooleanLiteralType"
+- "Collection"
+- "Container"
+- "Coordinator"
+- "Presentable"
+- "Router"
+- "Transition"
+- "TransitionProtocol"
+depends-member:
+- !private ["12XCoordinator9AnimationC", "dismissalAnimation"]
+- !private ["12XCoordinator9AnimationC", "presentationAnimation"]
+- !private ["Sa", "init"]
+- !private ["Sa", "last"]
+- !private ["SK", "init"]
+- !private ["SK", "last"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "dismissalAnimation"]
+- !private ["s7CVarArgP", "embed"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "last"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "presentationAnimation"]
+- !private ["s7CVarArgP", "registerPeek"]
+- !private ["s7CVarArgP", "show"]
+- !private ["s7CVarArgP", "showDetail"]
+- !private ["Sl", "compactMap"]
+- !private ["Sl", "dropFirst"]
+- !private ["Sl", "first"]
+- !private ["Sl", "flatMap"]
+- !private ["Sl", "init"]
+- !private ["Sl", "last"]
+- !private ["12XCoordinator9ContainerP", "dismiss"]
+- !private ["12XCoordinator9ContainerP", "embed"]
+- !private ["12XCoordinator9ContainerP", "present"]
+- !private ["12XCoordinator9ContainerP", "registerPeek"]
+- !private ["12XCoordinator9ContainerP", "show"]
+- !private ["12XCoordinator9ContainerP", "showDetail"]
+- !private ["12XCoordinator9ContainerP", "view"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "last"]
+- ["12XCoordinator11CoordinatorP", "AnyObject"]
+- ["12XCoordinator11CoordinatorP", "Container"]
+- ["12XCoordinator11CoordinatorP", "RouteType"]
+- ["12XCoordinator11CoordinatorP", "Transition"]
+- !private ["12XCoordinator11CoordinatorP", "TransitionType"]
+- !private ["12XCoordinator11CoordinatorP", "performTransition"]
+- !private ["12XCoordinator11CoordinatorP", "prepareTransition"]
+- ["12XCoordinator11CoordinatorP", "registerPeek"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "dismissalAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "embed"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "none"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "presentationAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "registerPeek"]
+- !private ["s28CustomDebugStringConvertibleP", "show"]
+- !private ["s28CustomDebugStringConvertibleP", "showDetail"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "last"]
+- !private ["s17CustomReflectableP", "none"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "dismissalAnimation"]
+- !private ["s23CustomStringConvertibleP", "embed"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "last"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "presentationAnimation"]
+- !private ["s23CustomStringConvertibleP", "registerPeek"]
+- !private ["s23CustomStringConvertibleP", "show"]
+- !private ["s23CustomStringConvertibleP", "showDetail"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "last"]
+- !private ["Se", "init"]
+- !private ["Se", "last"]
+- !private ["Se", "none"]
+- !private ["SE", "init"]
+- !private ["SE", "last"]
+- !private ["SE", "none"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "dismissalAnimation"]
+- !private ["SQ", "embed"]
+- !private ["SQ", "init"]
+- !private ["SQ", "last"]
+- !private ["SQ", "none"]
+- !private ["SQ", "present"]
+- !private ["SQ", "presentationAnimation"]
+- !private ["SQ", "registerPeek"]
+- !private ["SQ", "show"]
+- !private ["SQ", "showDetail"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "last"]
+- !private ["s23ExpressibleByNilLiteralP", "none"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "dismissalAnimation"]
+- !private ["SH", "embed"]
+- !private ["SH", "init"]
+- !private ["SH", "last"]
+- !private ["SH", "none"]
+- !private ["SH", "present"]
+- !private ["SH", "presentationAnimation"]
+- !private ["SH", "registerPeek"]
+- !private ["SH", "show"]
+- !private ["SH", "showDetail"]
+- !private ["SM", "init"]
+- !private ["SM", "last"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "last"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "embed"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "registerPeek"]
+- !private ["So8NSCodingP", "show"]
+- !private ["So8NSCodingP", "showDetail"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "embed"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "registerPeek"]
+- !private ["So26NSExtensionRequestHandlingP", "show"]
+- !private ["So26NSExtensionRequestHandlingP", "showDetail"]
+- !private ["So8NSObjectC", "dismiss"]
+- !private ["So8NSObjectC", "dismissalAnimation"]
+- !private ["So8NSObjectC", "embed"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "presentationAnimation"]
+- !private ["So8NSObjectC", "registerPeek"]
+- !private ["So8NSObjectC", "show"]
+- !private ["So8NSObjectC", "showDetail"]
+- !private ["So8NSObjectP", "dismiss"]
+- !private ["So8NSObjectP", "dismissalAnimation"]
+- !private ["So8NSObjectP", "embed"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "presentationAnimation"]
+- !private ["So8NSObjectP", "registerPeek"]
+- !private ["So8NSObjectP", "show"]
+- !private ["So8NSObjectP", "showDetail"]
+- !private ["Sq", "none"]
+- ["12XCoordinator11PresentableP", "AnyObject"]
+- ["12XCoordinator11PresentableP", "Container"]
+- ["12XCoordinator11PresentableP", "RouteType"]
+- ["12XCoordinator11PresentableP", "Transition"]
+- !private ["12XCoordinator11PresentableP", "TransitionType"]
+- !private ["12XCoordinator11PresentableP", "dismiss"]
+- !private ["12XCoordinator11PresentableP", "embed"]
+- !private ["12XCoordinator11PresentableP", "performTransition"]
+- !private ["12XCoordinator11PresentableP", "prepareTransition"]
+- !private ["12XCoordinator11PresentableP", "present"]
+- !private ["12XCoordinator11PresentableP", "presented"]
+- !private ["12XCoordinator11PresentableP", "registerPeek"]
+- !private ["12XCoordinator11PresentableP", "show"]
+- !private ["12XCoordinator11PresentableP", "showDetail"]
+- !private ["12XCoordinator11PresentableP", "trigger"]
+- !private ["12XCoordinator11PresentableP", "viewController"]
+- !private ["Sk", "init"]
+- !private ["Sk", "last"]
+- !private ["Sm", "init"]
+- !private ["Sm", "last"]
+- !private ["7RxSwift18ReactiveCompatibleP", "dismiss"]
+- !private ["7RxSwift18ReactiveCompatibleP", "dismissalAnimation"]
+- !private ["7RxSwift18ReactiveCompatibleP", "embed"]
+- !private ["7RxSwift18ReactiveCompatibleP", "present"]
+- !private ["7RxSwift18ReactiveCompatibleP", "presentationAnimation"]
+- !private ["7RxSwift18ReactiveCompatibleP", "registerPeek"]
+- !private ["7RxSwift18ReactiveCompatibleP", "show"]
+- !private ["7RxSwift18ReactiveCompatibleP", "showDetail"]
+- ["12XCoordinator6RouterP", "AnyObject"]
+- ["12XCoordinator6RouterP", "Container"]
+- ["12XCoordinator6RouterP", "RouteType"]
+- ["12XCoordinator6RouterP", "Transition"]
+- !private ["12XCoordinator6RouterP", "TransitionType"]
+- !private ["12XCoordinator6RouterP", "performTransition"]
+- !private ["12XCoordinator6RouterP", "prepareTransition"]
+- !private ["12XCoordinator6RouterP", "trigger"]
+- !private ["ST", "compactMap"]
+- !private ["ST", "dropFirst"]
+- !private ["ST", "first"]
+- !private ["ST", "flatMap"]
+- !private ["ST", "init"]
+- !private ["ST", "last"]
+- ["12XCoordinator10TransitionV", "Animation"]
+- ["12XCoordinator10TransitionV", "AnyObject"]
+- !private ["12XCoordinator10TransitionV", "Array"]
+- ["12XCoordinator10TransitionV", "Collection"]
+- ["12XCoordinator10TransitionV", "Container"]
+- ["12XCoordinator10TransitionV", "Coordinator"]
+- ["12XCoordinator10TransitionV", "Presentable"]
+- ["12XCoordinator10TransitionV", "Router"]
+- ["12XCoordinator10TransitionV", "Transition"]
+- ["12XCoordinator10TransitionV", "TransitionProtocol"]
+- !private ["12XCoordinator10TransitionV", "animation"]
+- !private ["12XCoordinator10TransitionV", "deinit"]
+- ["12XCoordinator10TransitionV", "dismiss"]
+- ["12XCoordinator10TransitionV", "dismissToRoot"]
+- ["12XCoordinator10TransitionV", "embed"]
+- !private ["12XCoordinator10TransitionV", "init"]
+- ["12XCoordinator10TransitionV", "multiple"]
+- ["12XCoordinator10TransitionV", "none"]
+- ["12XCoordinator10TransitionV", "perform"]
+- ["12XCoordinator10TransitionV", "present"]
+- ["12XCoordinator10TransitionV", "presentOnRoot"]
+- !private ["12XCoordinator10TransitionV", "presentables"]
+- ["12XCoordinator10TransitionV", "registerPeek"]
+- ["12XCoordinator10TransitionV", "route"]
+- ["12XCoordinator10TransitionV", "show"]
+- ["12XCoordinator10TransitionV", "showDetail"]
+- ["12XCoordinator10TransitionV", "trigger"]
+- ["12XCoordinator19TransitionPerformerP", "AnyObject"]
+- ["12XCoordinator19TransitionPerformerP", "Container"]
+- ["12XCoordinator19TransitionPerformerP", "RouteType"]
+- ["12XCoordinator19TransitionPerformerP", "Transition"]
+- !private ["12XCoordinator19TransitionPerformerP", "TransitionType"]
+- !private ["12XCoordinator19TransitionPerformerP", "performTransition"]
+- !private ["12XCoordinator19TransitionPerformerP", "prepareTransition"]
+- !private ["12XCoordinator18TransitionProtocolP", "Array"]
+- !private ["12XCoordinator18TransitionProtocolP", "Transition"]
+- !private ["12XCoordinator18TransitionProtocolP", "animation"]
+- !private ["12XCoordinator18TransitionProtocolP", "init"]
+- !private ["12XCoordinator18TransitionProtocolP", "multiple"]
+- !private ["12XCoordinator18TransitionProtocolP", "none"]
+- !private ["12XCoordinator18TransitionProtocolP", "perform"]
+- !private ["12XCoordinator18TransitionProtocolP", "presentables"]
+- !private ["12XCoordinator18TransitionProtocolP", "registerPeek"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "embed"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "registerPeek"]
+- !private ["So21UIAppearanceContainerP", "show"]
+- !private ["So21UIAppearanceContainerP", "showDetail"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "embed"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "registerPeek"]
+- !private ["So18UIContentContainerP", "show"]
+- !private ["So18UIContentContainerP", "showDetail"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "embed"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "registerPeek"]
+- !private ["So18UIFocusEnvironmentP", "show"]
+- !private ["So18UIFocusEnvironmentP", "showDetail"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "embed"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "registerPeek"]
+- !private ["So30UIPasteConfigurationSupportingP", "show"]
+- !private ["So30UIPasteConfigurationSupportingP", "showDetail"]
+- !private ["So11UIResponderC", "dismiss"]
+- !private ["So11UIResponderC", "embed"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "registerPeek"]
+- !private ["So11UIResponderC", "show"]
+- !private ["So11UIResponderC", "showDetail"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "embed"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "registerPeek"]
+- !private ["So30UIResponderStandardEditActionsP", "show"]
+- !private ["So30UIResponderStandardEditActionsP", "showDetail"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "embed"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "registerPeek"]
+- !private ["So16UIStateRestoringP", "show"]
+- !private ["So16UIStateRestoringP", "showDetail"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "embed"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "registerPeek"]
+- !private ["So18UITraitEnvironmentP", "show"]
+- !private ["So18UITraitEnvironmentP", "showDetail"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "embed"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "registerPeek"]
+- !private ["So23UIUserActivityRestoringP", "show"]
+- !private ["So23UIUserActivityRestoringP", "showDetail"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- !private ["So16UIViewControllerC", "embed"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "registerPeek"]
+- !private ["So16UIViewControllerC", "show"]
+- !private ["So16UIViewControllerC", "showDetail"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "dismissalAnimation"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "presentationAnimation"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "last"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "last"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "last"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "last"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismissalAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "embed"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentationAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "registerPeek"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "show"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showDetail"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "last"]
+- !private ["s21_ObjectiveCBridgeableP", "none"]
+depends-nominal:
+- !private "12XCoordinator9AnimationC"
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "12XCoordinator9ContainerP"
+- !private "10Foundation15ContiguousBytesP"
+- "12XCoordinator11CoordinatorP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sq"
+- "12XCoordinator11PresentableP"
+- !private "Sk"
+- !private "Sm"
+- !private "7RxSwift18ReactiveCompatibleP"
+- "12XCoordinator6RouterP"
+- !private "ST"
+- "12XCoordinator10TransitionV"
+- "12XCoordinator19TransitionPerformerP"
+- !private "12XCoordinator18TransitionProtocolP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So16UIViewControllerC"
+- !private "So37UIViewControllerTransitioningDelegateP"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7fb1e404a544dc6975be2cee1fd608af"

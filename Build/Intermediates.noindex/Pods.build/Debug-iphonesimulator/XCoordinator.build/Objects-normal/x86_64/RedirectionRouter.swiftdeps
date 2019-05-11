@@ -1,0 +1,225 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RedirectionRouter"
+provides-nominal:
+- "12XCoordinator17RedirectionRouterC"
+provides-member:
+- ["12XCoordinator17RedirectionRouterC", ""]
+- ["12XCoordinator17RedirectionRouterC", "router"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "??"
+- "AnyRouter"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "ContextPresentationHandler"
+- !private "DispatchQueue"
+- "Presentable"
+- "RedirectionRouter"
+- "ReferenceBox"
+- "Route"
+- "Router"
+- "TransitionOptions"
+- "UIViewController"
+- !private "fatalError"
+depends-member:
+- !private ["12XCoordinator9AnyRouterC", "contextTrigger"]
+- !private ["12XCoordinator9AnyRouterC", "deinit"]
+- !private ["12XCoordinator9AnyRouterC", "init"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "presented"]
+- !private ["12XCoordinator9ContainerP", "presented"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "presented"]
+- !private ["s17CustomReflectableP", "presented"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "presented"]
+- !private ["Se", "presented"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- !private ["SE", "presented"]
+- !private ["SQ", "async"]
+- !private ["SQ", "main"]
+- !private ["SQ", "presented"]
+- !private ["s23ExpressibleByNilLiteralP", "presented"]
+- !private ["SH", "async"]
+- !private ["SH", "main"]
+- !private ["SH", "presented"]
+- !private ["So8NSCodingP", "presented"]
+- !private ["So26NSExtensionRequestHandlingP", "presented"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "presented"]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "presented"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- !private ["Sq", "presented"]
+- !private ["12XCoordinator11PresentableP", "AnyRouter"]
+- !private ["12XCoordinator11PresentableP", "DispatchQueue"]
+- !private ["12XCoordinator11PresentableP", "ReferenceBox"]
+- ["12XCoordinator11PresentableP", "RouteType"]
+- ["12XCoordinator11PresentableP", ""]
+- ["12XCoordinator11PresentableP", "_Default_RouteType"]
+- !private ["12XCoordinator11PresentableP", "_map"]
+- !private ["12XCoordinator11PresentableP", "anyRouter"]
+- ["12XCoordinator11PresentableP", "contextTrigger"]
+- !private ["12XCoordinator11PresentableP", "fatalError"]
+- !private ["12XCoordinator11PresentableP", "init"]
+- !private ["12XCoordinator11PresentableP", "mapToSuperRoute"]
+- ["12XCoordinator11PresentableP", "presented"]
+- ["12XCoordinator11PresentableP", "router"]
+- ["12XCoordinator11PresentableP", "setRoot"]
+- !private ["12XCoordinator11PresentableP", "superRouter"]
+- ["12XCoordinator11PresentableP", "viewController"]
+- !private ["12XCoordinator11PresentableP", "viewControllerBox"]
+- !private ["7RxSwift18ReactiveCompatibleP", "async"]
+- !private ["7RxSwift18ReactiveCompatibleP", "main"]
+- !private ["7RxSwift18ReactiveCompatibleP", "presented"]
+- ["12XCoordinator17RedirectionRouterC", "AnyRouter"]
+- ["12XCoordinator17RedirectionRouterC", "ContextPresentationHandler"]
+- !private ["12XCoordinator17RedirectionRouterC", "DispatchQueue"]
+- ["12XCoordinator17RedirectionRouterC", "Presentable"]
+- ["12XCoordinator17RedirectionRouterC", "ReferenceBox"]
+- ["12XCoordinator17RedirectionRouterC", "Route"]
+- ["12XCoordinator17RedirectionRouterC", "RouteType"]
+- ["12XCoordinator17RedirectionRouterC", "Router"]
+- ["12XCoordinator17RedirectionRouterC", "TransitionOptions"]
+- ["12XCoordinator17RedirectionRouterC", "UIViewController"]
+- ["12XCoordinator17RedirectionRouterC", "_Default_RouteType"]
+- !private ["12XCoordinator17RedirectionRouterC", "_map"]
+- !private ["12XCoordinator17RedirectionRouterC", "anyRouter"]
+- ["12XCoordinator17RedirectionRouterC", "contextTrigger"]
+- ["12XCoordinator17RedirectionRouterC", "deinit"]
+- !private ["12XCoordinator17RedirectionRouterC", "fatalError"]
+- ["12XCoordinator17RedirectionRouterC", "init"]
+- ["12XCoordinator17RedirectionRouterC", "mapToSuperRoute"]
+- ["12XCoordinator17RedirectionRouterC", "presented"]
+- ["12XCoordinator17RedirectionRouterC", "router"]
+- ["12XCoordinator17RedirectionRouterC", "setRoot"]
+- ["12XCoordinator17RedirectionRouterC", "superRouter"]
+- ["12XCoordinator17RedirectionRouterC", "viewController"]
+- !private ["12XCoordinator17RedirectionRouterC", "viewControllerBox"]
+- !private ["12XCoordinator12ReferenceBoxC", "get"]
+- !private ["12XCoordinator12ReferenceBoxC", "init"]
+- !private ["12XCoordinator12ReferenceBoxC", "releaseStrongReference"]
+- !private ["12XCoordinator6RouterP", "AnyRouter"]
+- !private ["12XCoordinator6RouterP", "DispatchQueue"]
+- !private ["12XCoordinator6RouterP", "ReferenceBox"]
+- ["12XCoordinator6RouterP", "RouteType"]
+- ["12XCoordinator6RouterP", ""]
+- ["12XCoordinator6RouterP", "_Default_RouteType"]
+- !private ["12XCoordinator6RouterP", "_map"]
+- !private ["12XCoordinator6RouterP", "anyRouter"]
+- ["12XCoordinator6RouterP", "contextTrigger"]
+- !private ["12XCoordinator6RouterP", "fatalError"]
+- !private ["12XCoordinator6RouterP", "init"]
+- !private ["12XCoordinator6RouterP", "mapToSuperRoute"]
+- ["12XCoordinator6RouterP", "presented"]
+- ["12XCoordinator6RouterP", "router"]
+- ["12XCoordinator6RouterP", "setRoot"]
+- !private ["12XCoordinator6RouterP", "superRouter"]
+- ["12XCoordinator6RouterP", "viewController"]
+- !private ["12XCoordinator6RouterP", "viewControllerBox"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["So21UIAppearanceContainerP", "presented"]
+- !private ["So18UIContentContainerP", "presented"]
+- !private ["So18UIFocusEnvironmentP", "presented"]
+- !private ["So30UIPasteConfigurationSupportingP", "presented"]
+- !private ["So11UIResponderC", "presented"]
+- !private ["So30UIResponderStandardEditActionsP", "presented"]
+- !private ["So16UIStateRestoringP", "presented"]
+- !private ["So18UITraitEnvironmentP", "presented"]
+- !private ["So23UIUserActivityRestoringP", "presented"]
+- !private ["So16UIViewControllerC", "deinit"]
+- !private ["So16UIViewControllerC", "presented"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presented"]
+- !private ["s21_ObjectiveCBridgeableP", "presented"]
+depends-nominal:
+- !private "12XCoordinator9AnyRouterC"
+- !private "s7CVarArgP"
+- !private "12XCoordinator9ContainerP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- !private "SE"
+- !private "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So9OS_objectC"
+- !private "Sq"
+- "12XCoordinator11PresentableP"
+- !private "7RxSwift18ReactiveCompatibleP"
+- "12XCoordinator17RedirectionRouterC"
+- !private "12XCoordinator12ReferenceBoxC"
+- "12XCoordinator6RouterP"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So16UIViewControllerC"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8f887bad19961c2df966518d4b9a5742"

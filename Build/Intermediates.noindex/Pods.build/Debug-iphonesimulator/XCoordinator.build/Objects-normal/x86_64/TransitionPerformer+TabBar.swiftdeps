@@ -1,0 +1,309 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So18UITabBarControllerC", ""]
+- ["So18UITabBarControllerC", "set"]
+- ["So18UITabBarControllerC", "select"]
+- ["So18UITabBarControllerC", "select"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- "Animation"
+- "AssignmentPrecedence"
+- !private "CATransaction"
+- "Int"
+- "PresentationHandler"
+- "TransitionOptions"
+- "UITabBarController"
+- "UIViewController"
+- !private "assert"
+- !private "||"
+depends-member:
+- !private ["12XCoordinator9AnimationC", "deinit"]
+- !private ["So13CATransactionC", "begin"]
+- !private ["So13CATransactionC", "commit"]
+- !private ["So13CATransactionC", "setCompletionBlock"]
+- !private ["s7CVarArgP", "CATransaction"]
+- !private ["s7CVarArgP", "animation"]
+- !private ["s7CVarArgP", "animationDelegate"]
+- !private ["s7CVarArgP", "assert"]
+- !private ["s7CVarArgP", "begin"]
+- !private ["s7CVarArgP", "commit"]
+- !private ["s7CVarArgP", "selectedIndex"]
+- !private ["s7CVarArgP", "selectedViewController"]
+- !private ["s7CVarArgP", "setCompletionBlock"]
+- !private ["s7CVarArgP", "setViewControllers"]
+- !private ["12XCoordinator9ContainerP", "CATransaction"]
+- !private ["12XCoordinator9ContainerP", "animationDelegate"]
+- !private ["12XCoordinator9ContainerP", "assert"]
+- !private ["12XCoordinator9ContainerP", "selectedIndex"]
+- !private ["12XCoordinator9ContainerP", "selectedViewController"]
+- !private ["12XCoordinator9ContainerP", "setViewControllers"]
+- !private ["s28CustomDebugStringConvertibleP", "CATransaction"]
+- !private ["s28CustomDebugStringConvertibleP", "animation"]
+- !private ["s28CustomDebugStringConvertibleP", "animationDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "assert"]
+- !private ["s28CustomDebugStringConvertibleP", "begin"]
+- !private ["s28CustomDebugStringConvertibleP", "commit"]
+- !private ["s28CustomDebugStringConvertibleP", "selectedIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "selectedViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "setCompletionBlock"]
+- !private ["s28CustomDebugStringConvertibleP", "setViewControllers"]
+- !private ["s23CustomStringConvertibleP", "CATransaction"]
+- !private ["s23CustomStringConvertibleP", "animation"]
+- !private ["s23CustomStringConvertibleP", "animationDelegate"]
+- !private ["s23CustomStringConvertibleP", "assert"]
+- !private ["s23CustomStringConvertibleP", "begin"]
+- !private ["s23CustomStringConvertibleP", "commit"]
+- !private ["s23CustomStringConvertibleP", "selectedIndex"]
+- !private ["s23CustomStringConvertibleP", "selectedViewController"]
+- !private ["s23CustomStringConvertibleP", "setCompletionBlock"]
+- !private ["s23CustomStringConvertibleP", "setViewControllers"]
+- !private ["SQ", "CATransaction"]
+- !private ["SQ", "animation"]
+- !private ["SQ", "animationDelegate"]
+- !private ["SQ", "assert"]
+- !private ["SQ", "begin"]
+- !private ["SQ", "commit"]
+- !private ["SQ", "selectedIndex"]
+- !private ["SQ", "selectedViewController"]
+- !private ["SQ", "setCompletionBlock"]
+- !private ["SQ", "setViewControllers"]
+- !private ["SH", "CATransaction"]
+- !private ["SH", "animation"]
+- !private ["SH", "animationDelegate"]
+- !private ["SH", "assert"]
+- !private ["SH", "begin"]
+- !private ["SH", "commit"]
+- !private ["SH", "selectedIndex"]
+- !private ["SH", "selectedViewController"]
+- !private ["SH", "setCompletionBlock"]
+- !private ["SH", "setViewControllers"]
+- !private ["So8NSCodingP", "CATransaction"]
+- !private ["So8NSCodingP", "animationDelegate"]
+- !private ["So8NSCodingP", "assert"]
+- !private ["So8NSCodingP", "selectedIndex"]
+- !private ["So8NSCodingP", "selectedViewController"]
+- !private ["So8NSCodingP", "setViewControllers"]
+- !private ["So26NSExtensionRequestHandlingP", "CATransaction"]
+- !private ["So26NSExtensionRequestHandlingP", "animationDelegate"]
+- !private ["So26NSExtensionRequestHandlingP", "assert"]
+- !private ["So26NSExtensionRequestHandlingP", "selectedIndex"]
+- !private ["So26NSExtensionRequestHandlingP", "selectedViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "setViewControllers"]
+- ["So8NSObjectC", "Animation"]
+- !private ["So8NSObjectC", "CATransaction"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "PresentationHandler"]
+- ["So8NSObjectC", "TransitionOptions"]
+- ["So8NSObjectC", "UIViewController"]
+- !private ["So8NSObjectC", "animation"]
+- !private ["So8NSObjectC", "animationDelegate"]
+- !private ["So8NSObjectC", "assert"]
+- !private ["So8NSObjectC", "begin"]
+- !private ["So8NSObjectC", "commit"]
+- ["So8NSObjectC", "select"]
+- !private ["So8NSObjectC", "selectedIndex"]
+- !private ["So8NSObjectC", "selectedViewController"]
+- ["So8NSObjectC", "set"]
+- !private ["So8NSObjectC", "setCompletionBlock"]
+- !private ["So8NSObjectC", "setViewControllers"]
+- !private ["So8NSObjectP", "CATransaction"]
+- !private ["So8NSObjectP", "animation"]
+- !private ["So8NSObjectP", "animationDelegate"]
+- !private ["So8NSObjectP", "assert"]
+- !private ["So8NSObjectP", "begin"]
+- !private ["So8NSObjectP", "commit"]
+- !private ["So8NSObjectP", "selectedIndex"]
+- !private ["So8NSObjectP", "selectedViewController"]
+- !private ["So8NSObjectP", "setCompletionBlock"]
+- !private ["So8NSObjectP", "setViewControllers"]
+- !private ["12XCoordinator11PresentableP", "CATransaction"]
+- !private ["12XCoordinator11PresentableP", "animationDelegate"]
+- !private ["12XCoordinator11PresentableP", "assert"]
+- !private ["12XCoordinator11PresentableP", "selectedIndex"]
+- !private ["12XCoordinator11PresentableP", "selectedViewController"]
+- !private ["12XCoordinator11PresentableP", "setViewControllers"]
+- !private ["7RxSwift18ReactiveCompatibleP", "CATransaction"]
+- !private ["7RxSwift18ReactiveCompatibleP", "animation"]
+- !private ["7RxSwift18ReactiveCompatibleP", "animationDelegate"]
+- !private ["7RxSwift18ReactiveCompatibleP", "assert"]
+- !private ["7RxSwift18ReactiveCompatibleP", "begin"]
+- !private ["7RxSwift18ReactiveCompatibleP", "commit"]
+- !private ["7RxSwift18ReactiveCompatibleP", "selectedIndex"]
+- !private ["7RxSwift18ReactiveCompatibleP", "selectedViewController"]
+- !private ["7RxSwift18ReactiveCompatibleP", "setCompletionBlock"]
+- !private ["7RxSwift18ReactiveCompatibleP", "setViewControllers"]
+- !private ["12XCoordinator23TabBarAnimationDelegateC", "animation"]
+- !private ["12XCoordinator23TabBarAnimationDelegateC", "deinit"]
+- !private ["12XCoordinator17TransitionOptionsV", "animated"]
+- !private ["So21UIAppearanceContainerP", "CATransaction"]
+- !private ["So21UIAppearanceContainerP", "animationDelegate"]
+- !private ["So21UIAppearanceContainerP", "assert"]
+- !private ["So21UIAppearanceContainerP", "selectedIndex"]
+- !private ["So21UIAppearanceContainerP", "selectedViewController"]
+- !private ["So21UIAppearanceContainerP", "setViewControllers"]
+- !private ["So18UIContentContainerP", "CATransaction"]
+- !private ["So18UIContentContainerP", "animationDelegate"]
+- !private ["So18UIContentContainerP", "assert"]
+- !private ["So18UIContentContainerP", "selectedIndex"]
+- !private ["So18UIContentContainerP", "selectedViewController"]
+- !private ["So18UIContentContainerP", "setViewControllers"]
+- !private ["So18UIFocusEnvironmentP", "CATransaction"]
+- !private ["So18UIFocusEnvironmentP", "animationDelegate"]
+- !private ["So18UIFocusEnvironmentP", "assert"]
+- !private ["So18UIFocusEnvironmentP", "selectedIndex"]
+- !private ["So18UIFocusEnvironmentP", "selectedViewController"]
+- !private ["So18UIFocusEnvironmentP", "setViewControllers"]
+- !private ["So30UIPasteConfigurationSupportingP", "CATransaction"]
+- !private ["So30UIPasteConfigurationSupportingP", "animationDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "assert"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectedIndex"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectedViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "setViewControllers"]
+- ["So11UIResponderC", "Animation"]
+- !private ["So11UIResponderC", "CATransaction"]
+- ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "PresentationHandler"]
+- ["So11UIResponderC", "TransitionOptions"]
+- ["So11UIResponderC", "UIViewController"]
+- !private ["So11UIResponderC", "animationDelegate"]
+- !private ["So11UIResponderC", "assert"]
+- ["So11UIResponderC", "select"]
+- !private ["So11UIResponderC", "selectedIndex"]
+- !private ["So11UIResponderC", "selectedViewController"]
+- ["So11UIResponderC", "set"]
+- !private ["So11UIResponderC", "setViewControllers"]
+- !private ["So30UIResponderStandardEditActionsP", "CATransaction"]
+- !private ["So30UIResponderStandardEditActionsP", "animationDelegate"]
+- !private ["So30UIResponderStandardEditActionsP", "assert"]
+- !private ["So30UIResponderStandardEditActionsP", "selectedIndex"]
+- !private ["So30UIResponderStandardEditActionsP", "selectedViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "setViewControllers"]
+- !private ["So16UIStateRestoringP", "CATransaction"]
+- !private ["So16UIStateRestoringP", "animationDelegate"]
+- !private ["So16UIStateRestoringP", "assert"]
+- !private ["So16UIStateRestoringP", "selectedIndex"]
+- !private ["So16UIStateRestoringP", "selectedViewController"]
+- !private ["So16UIStateRestoringP", "setViewControllers"]
+- ["So18UITabBarControllerC", "Animation"]
+- !private ["So18UITabBarControllerC", "CATransaction"]
+- ["So18UITabBarControllerC", "Int"]
+- ["So18UITabBarControllerC", "PresentationHandler"]
+- ["So18UITabBarControllerC", "TransitionOptions"]
+- ["So18UITabBarControllerC", "UIViewController"]
+- !private ["So18UITabBarControllerC", "animationDelegate"]
+- !private ["So18UITabBarControllerC", "assert"]
+- ["So18UITabBarControllerC", "select"]
+- !private ["So18UITabBarControllerC", "selectedIndex"]
+- !private ["So18UITabBarControllerC", "selectedViewController"]
+- ["So18UITabBarControllerC", "set"]
+- !private ["So18UITabBarControllerC", "setViewControllers"]
+- !private ["So26UITabBarControllerDelegateP", "animation"]
+- !private ["So16UITabBarDelegateP", "CATransaction"]
+- !private ["So16UITabBarDelegateP", "animationDelegate"]
+- !private ["So16UITabBarDelegateP", "assert"]
+- !private ["So16UITabBarDelegateP", "selectedIndex"]
+- !private ["So16UITabBarDelegateP", "selectedViewController"]
+- !private ["So16UITabBarDelegateP", "setViewControllers"]
+- !private ["So18UITraitEnvironmentP", "CATransaction"]
+- !private ["So18UITraitEnvironmentP", "animationDelegate"]
+- !private ["So18UITraitEnvironmentP", "assert"]
+- !private ["So18UITraitEnvironmentP", "selectedIndex"]
+- !private ["So18UITraitEnvironmentP", "selectedViewController"]
+- !private ["So18UITraitEnvironmentP", "setViewControllers"]
+- !private ["So23UIUserActivityRestoringP", "CATransaction"]
+- !private ["So23UIUserActivityRestoringP", "animationDelegate"]
+- !private ["So23UIUserActivityRestoringP", "assert"]
+- !private ["So23UIUserActivityRestoringP", "selectedIndex"]
+- !private ["So23UIUserActivityRestoringP", "selectedViewController"]
+- !private ["So23UIUserActivityRestoringP", "setViewControllers"]
+- ["So16UIViewControllerC", "Animation"]
+- !private ["So16UIViewControllerC", "CATransaction"]
+- ["So16UIViewControllerC", "Int"]
+- ["So16UIViewControllerC", "PresentationHandler"]
+- ["So16UIViewControllerC", "TransitionOptions"]
+- ["So16UIViewControllerC", "UIViewController"]
+- !private ["So16UIViewControllerC", "animationDelegate"]
+- !private ["So16UIViewControllerC", "assert"]
+- ["So16UIViewControllerC", "select"]
+- !private ["So16UIViewControllerC", "selectedIndex"]
+- !private ["So16UIViewControllerC", "selectedViewController"]
+- ["So16UIViewControllerC", "set"]
+- !private ["So16UIViewControllerC", "setViewControllers"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CATransaction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animationDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "assert"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "begin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commit"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectedIndex"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectedViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setCompletionBlock"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setViewControllers"]
+depends-nominal:
+- !private "12XCoordinator9AnimationC"
+- !private "So13CATransactionC"
+- !private "s7CVarArgP"
+- !private "12XCoordinator9ContainerP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "SQ"
+- !private "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "12XCoordinator11PresentableP"
+- !private "7RxSwift18ReactiveCompatibleP"
+- !private "12XCoordinator23TabBarAnimationDelegateC"
+- !private "12XCoordinator17TransitionOptionsV"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- "So18UITabBarControllerC"
+- !private "So26UITabBarControllerDelegateP"
+- !private "So16UITabBarDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0893141156f35022ccdf9cb452d6b2f5"

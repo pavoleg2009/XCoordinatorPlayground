@@ -1,0 +1,289 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Presentable"
+provides-nominal:
+- "12XCoordinator11PresentableP"
+- "So16UIViewControllerC"
+- "So8UIWindowC"
+provides-member:
+- ["12XCoordinator11PresentableP", ""]
+- ["So16UIViewControllerC", ""]
+- ["So8UIWindowC", ""]
+- ["12XCoordinator11PresentableP", "setRoot"]
+- ["12XCoordinator11PresentableP", "router"]
+- ["12XCoordinator11PresentableP", "presented"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyRouter"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Presentable"
+- "Route"
+- "UIViewController"
+- "UIWindow"
+depends-member:
+- !private ["So15CALayerDelegateP", "makeKeyAndVisible"]
+- ["So15CALayerDelegateP", "presented"]
+- !private ["So15CALayerDelegateP", "rootViewController"]
+- ["So15CALayerDelegateP", "router"]
+- ["So15CALayerDelegateP", "setRoot"]
+- ["So15CALayerDelegateP", "viewController"]
+- !private ["s7CVarArgP", "makeKeyAndVisible"]
+- ["s7CVarArgP", "presented"]
+- !private ["s7CVarArgP", "rootViewController"]
+- ["s7CVarArgP", "router"]
+- ["s7CVarArgP", "setRoot"]
+- ["s7CVarArgP", "viewController"]
+- !private ["12XCoordinator9ContainerP", "makeKeyAndVisible"]
+- ["12XCoordinator9ContainerP", "presented"]
+- !private ["12XCoordinator9ContainerP", "rootViewController"]
+- ["12XCoordinator9ContainerP", "router"]
+- ["12XCoordinator9ContainerP", "setRoot"]
+- ["12XCoordinator9ContainerP", "viewController"]
+- !private ["s28CustomDebugStringConvertibleP", "makeKeyAndVisible"]
+- ["s28CustomDebugStringConvertibleP", "presented"]
+- !private ["s28CustomDebugStringConvertibleP", "rootViewController"]
+- ["s28CustomDebugStringConvertibleP", "router"]
+- ["s28CustomDebugStringConvertibleP", "setRoot"]
+- ["s28CustomDebugStringConvertibleP", "viewController"]
+- !private ["s23CustomStringConvertibleP", "makeKeyAndVisible"]
+- ["s23CustomStringConvertibleP", "presented"]
+- !private ["s23CustomStringConvertibleP", "rootViewController"]
+- ["s23CustomStringConvertibleP", "router"]
+- ["s23CustomStringConvertibleP", "setRoot"]
+- ["s23CustomStringConvertibleP", "viewController"]
+- !private ["SQ", "makeKeyAndVisible"]
+- ["SQ", "presented"]
+- !private ["SQ", "rootViewController"]
+- ["SQ", "router"]
+- ["SQ", "setRoot"]
+- ["SQ", "viewController"]
+- !private ["SH", "makeKeyAndVisible"]
+- ["SH", "presented"]
+- !private ["SH", "rootViewController"]
+- ["SH", "router"]
+- ["SH", "setRoot"]
+- ["SH", "viewController"]
+- !private ["So8NSCodingP", "makeKeyAndVisible"]
+- ["So8NSCodingP", "presented"]
+- !private ["So8NSCodingP", "rootViewController"]
+- ["So8NSCodingP", "router"]
+- ["So8NSCodingP", "setRoot"]
+- ["So8NSCodingP", "viewController"]
+- ["So26NSExtensionRequestHandlingP", "presented"]
+- ["So26NSExtensionRequestHandlingP", "router"]
+- ["So26NSExtensionRequestHandlingP", "setRoot"]
+- ["So26NSExtensionRequestHandlingP", "viewController"]
+- !private ["So8NSObjectC", "makeKeyAndVisible"]
+- ["So8NSObjectC", "presented"]
+- !private ["So8NSObjectC", "rootViewController"]
+- ["So8NSObjectC", "router"]
+- ["So8NSObjectC", "setRoot"]
+- ["So8NSObjectC", "viewController"]
+- !private ["So8NSObjectP", "makeKeyAndVisible"]
+- ["So8NSObjectP", "presented"]
+- !private ["So8NSObjectP", "rootViewController"]
+- ["So8NSObjectP", "router"]
+- ["So8NSObjectP", "setRoot"]
+- ["So8NSObjectP", "viewController"]
+- ["12XCoordinator11PresentableP", "AnyRouter"]
+- ["12XCoordinator11PresentableP", "Presentable"]
+- ["12XCoordinator11PresentableP", "Route"]
+- ["12XCoordinator11PresentableP", "UIViewController"]
+- ["12XCoordinator11PresentableP", "UIWindow"]
+- ["12XCoordinator11PresentableP", ""]
+- !private ["12XCoordinator11PresentableP", "makeKeyAndVisible"]
+- ["12XCoordinator11PresentableP", "presented"]
+- !private ["12XCoordinator11PresentableP", "rootViewController"]
+- ["12XCoordinator11PresentableP", "router"]
+- ["12XCoordinator11PresentableP", "setRoot"]
+- ["12XCoordinator11PresentableP", "viewController"]
+- !private ["7RxSwift18ReactiveCompatibleP", "makeKeyAndVisible"]
+- ["7RxSwift18ReactiveCompatibleP", "presented"]
+- !private ["7RxSwift18ReactiveCompatibleP", "rootViewController"]
+- ["7RxSwift18ReactiveCompatibleP", "router"]
+- ["7RxSwift18ReactiveCompatibleP", "setRoot"]
+- ["7RxSwift18ReactiveCompatibleP", "viewController"]
+- !private ["So29UIAccessibilityIdentificationP", "makeKeyAndVisible"]
+- ["So29UIAccessibilityIdentificationP", "presented"]
+- !private ["So29UIAccessibilityIdentificationP", "rootViewController"]
+- ["So29UIAccessibilityIdentificationP", "router"]
+- ["So29UIAccessibilityIdentificationP", "setRoot"]
+- ["So29UIAccessibilityIdentificationP", "viewController"]
+- !private ["So12UIAppearanceP", "makeKeyAndVisible"]
+- ["So12UIAppearanceP", "presented"]
+- !private ["So12UIAppearanceP", "rootViewController"]
+- ["So12UIAppearanceP", "router"]
+- ["So12UIAppearanceP", "setRoot"]
+- ["So12UIAppearanceP", "viewController"]
+- !private ["So21UIAppearanceContainerP", "makeKeyAndVisible"]
+- ["So21UIAppearanceContainerP", "presented"]
+- !private ["So21UIAppearanceContainerP", "rootViewController"]
+- ["So21UIAppearanceContainerP", "router"]
+- ["So21UIAppearanceContainerP", "setRoot"]
+- ["So21UIAppearanceContainerP", "viewController"]
+- ["So18UIContentContainerP", "presented"]
+- ["So18UIContentContainerP", "router"]
+- ["So18UIContentContainerP", "setRoot"]
+- ["So18UIContentContainerP", "viewController"]
+- !private ["So17UICoordinateSpaceP", "makeKeyAndVisible"]
+- ["So17UICoordinateSpaceP", "presented"]
+- !private ["So17UICoordinateSpaceP", "rootViewController"]
+- ["So17UICoordinateSpaceP", "router"]
+- ["So17UICoordinateSpaceP", "setRoot"]
+- ["So17UICoordinateSpaceP", "viewController"]
+- !private ["So13UIDynamicItemP", "makeKeyAndVisible"]
+- ["So13UIDynamicItemP", "presented"]
+- !private ["So13UIDynamicItemP", "rootViewController"]
+- ["So13UIDynamicItemP", "router"]
+- ["So13UIDynamicItemP", "setRoot"]
+- ["So13UIDynamicItemP", "viewController"]
+- !private ["So18UIFocusEnvironmentP", "makeKeyAndVisible"]
+- ["So18UIFocusEnvironmentP", "presented"]
+- !private ["So18UIFocusEnvironmentP", "rootViewController"]
+- ["So18UIFocusEnvironmentP", "router"]
+- ["So18UIFocusEnvironmentP", "setRoot"]
+- ["So18UIFocusEnvironmentP", "viewController"]
+- !private ["So11UIFocusItemP", "makeKeyAndVisible"]
+- ["So11UIFocusItemP", "presented"]
+- !private ["So11UIFocusItemP", "rootViewController"]
+- ["So11UIFocusItemP", "router"]
+- ["So11UIFocusItemP", "setRoot"]
+- ["So11UIFocusItemP", "viewController"]
+- !private ["So20UIFocusItemContainerP", "makeKeyAndVisible"]
+- ["So20UIFocusItemContainerP", "presented"]
+- !private ["So20UIFocusItemContainerP", "rootViewController"]
+- ["So20UIFocusItemContainerP", "router"]
+- ["So20UIFocusItemContainerP", "setRoot"]
+- ["So20UIFocusItemContainerP", "viewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "makeKeyAndVisible"]
+- ["So30UIPasteConfigurationSupportingP", "presented"]
+- !private ["So30UIPasteConfigurationSupportingP", "rootViewController"]
+- ["So30UIPasteConfigurationSupportingP", "router"]
+- ["So30UIPasteConfigurationSupportingP", "setRoot"]
+- ["So30UIPasteConfigurationSupportingP", "viewController"]
+- !private ["So11UIResponderC", "makeKeyAndVisible"]
+- ["So11UIResponderC", "presented"]
+- !private ["So11UIResponderC", "rootViewController"]
+- ["So11UIResponderC", "router"]
+- ["So11UIResponderC", "setRoot"]
+- ["So11UIResponderC", "viewController"]
+- !private ["So30UIResponderStandardEditActionsP", "makeKeyAndVisible"]
+- ["So30UIResponderStandardEditActionsP", "presented"]
+- !private ["So30UIResponderStandardEditActionsP", "rootViewController"]
+- ["So30UIResponderStandardEditActionsP", "router"]
+- ["So30UIResponderStandardEditActionsP", "setRoot"]
+- ["So30UIResponderStandardEditActionsP", "viewController"]
+- ["So16UIStateRestoringP", "presented"]
+- ["So16UIStateRestoringP", "router"]
+- ["So16UIStateRestoringP", "setRoot"]
+- ["So16UIStateRestoringP", "viewController"]
+- !private ["So18UITraitEnvironmentP", "makeKeyAndVisible"]
+- ["So18UITraitEnvironmentP", "presented"]
+- !private ["So18UITraitEnvironmentP", "rootViewController"]
+- ["So18UITraitEnvironmentP", "router"]
+- ["So18UITraitEnvironmentP", "setRoot"]
+- ["So18UITraitEnvironmentP", "viewController"]
+- !private ["So23UIUserActivityRestoringP", "makeKeyAndVisible"]
+- ["So23UIUserActivityRestoringP", "presented"]
+- !private ["So23UIUserActivityRestoringP", "rootViewController"]
+- ["So23UIUserActivityRestoringP", "router"]
+- ["So23UIUserActivityRestoringP", "setRoot"]
+- ["So23UIUserActivityRestoringP", "viewController"]
+- !private ["So6UIViewC", "makeKeyAndVisible"]
+- ["So6UIViewC", "presented"]
+- !private ["So6UIViewC", "rootViewController"]
+- ["So6UIViewC", "router"]
+- ["So6UIViewC", "setRoot"]
+- ["So6UIViewC", "viewController"]
+- ["So16UIViewControllerC", "deinit"]
+- ["So16UIViewControllerC", "presented"]
+- ["So16UIViewControllerC", "router"]
+- ["So16UIViewControllerC", "setRoot"]
+- ["So16UIViewControllerC", "viewController"]
+- ["So8UIWindowC", "deinit"]
+- !private ["So8UIWindowC", "makeKeyAndVisible"]
+- ["So8UIWindowC", "presented"]
+- !private ["So8UIWindowC", "rootViewController"]
+- ["So8UIWindowC", "router"]
+- ["So8UIWindowC", "setRoot"]
+- ["So8UIWindowC", "viewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "makeKeyAndVisible"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "presented"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rootViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "router"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "setRoot"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "viewController"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "makeKeyAndVisible"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "presented"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "rootViewController"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "router"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "setRoot"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "viewController"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "12XCoordinator9ContainerP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "12XCoordinator11PresentableP"
+- "7RxSwift18ReactiveCompatibleP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "So8UIWindowC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b9982b1392b16fc06fda814e07e62bd1"

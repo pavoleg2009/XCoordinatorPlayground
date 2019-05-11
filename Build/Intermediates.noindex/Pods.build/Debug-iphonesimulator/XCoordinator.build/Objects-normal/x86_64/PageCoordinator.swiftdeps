@@ -1,0 +1,404 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PageCoordinator"
+provides-nominal:
+- "12XCoordinator15PageCoordinatorC"
+provides-member:
+- ["12XCoordinator15PageCoordinatorC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- "BaseCoordinator"
+- "Bool"
+- "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "PageCoordinator"
+- !private "PageCoordinatorDataSource"
+- "PageTransition"
+- "Presentable"
+- "Route"
+- !private "String"
+- !private "StringLiteralType"
+- "UIPageViewController"
+- "UIPageViewControllerDataSource"
+- !private "assertionFailure"
+depends-member:
+- !private ["Sa", "first"]
+- !private ["Sa", "map"]
+- ["12XCoordinator15BaseCoordinatorC", "Bool"]
+- !private ["12XCoordinator15BaseCoordinatorC", "PageCoordinator"]
+- !private ["12XCoordinator15BaseCoordinatorC", "PageCoordinatorDataSource"]
+- ["12XCoordinator15BaseCoordinatorC", "Presentable"]
+- !private ["12XCoordinator15BaseCoordinatorC", "String"]
+- ["12XCoordinator15BaseCoordinatorC", "UIPageViewController"]
+- ["12XCoordinator15BaseCoordinatorC", "UIPageViewControllerDataSource"]
+- ["12XCoordinator15BaseCoordinatorC", ""]
+- !private ["12XCoordinator15BaseCoordinatorC", "assertionFailure"]
+- ["12XCoordinator15BaseCoordinatorC", "configuration"]
+- ["12XCoordinator15BaseCoordinatorC", "dataSource"]
+- ["12XCoordinator15BaseCoordinatorC", "generateRootViewController"]
+- ["12XCoordinator15BaseCoordinatorC", "init"]
+- !private ["SK", "first"]
+- !private ["SK", "init"]
+- !private ["SK", "map"]
+- ["s7CVarArgP", "Configuration"]
+- ["s7CVarArgP", "NavigationDirection"]
+- !private ["s7CVarArgP", "dataSource"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "map"]
+- !private ["Sl", "first"]
+- !private ["Sl", "init"]
+- !private ["Sl", "map"]
+- !private ["SL", "init"]
+- !private ["So20UIPageViewControllerC12XCoordinatorE13ConfigurationV", "default"]
+- ["12XCoordinator9ContainerP", "Configuration"]
+- ["12XCoordinator9ContainerP", "NavigationDirection"]
+- !private ["12XCoordinator9ContainerP", "dataSource"]
+- !private ["12XCoordinator9ContainerP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["12XCoordinator11CoordinatorP", "PageCoordinator"]
+- !private ["12XCoordinator11CoordinatorP", "PageCoordinatorDataSource"]
+- !private ["12XCoordinator11CoordinatorP", "String"]
+- !private ["12XCoordinator11CoordinatorP", "UIPageViewController"]
+- ["12XCoordinator11CoordinatorP", ""]
+- !private ["12XCoordinator11CoordinatorP", "assertionFailure"]
+- !private ["12XCoordinator11CoordinatorP", "configuration"]
+- !private ["12XCoordinator11CoordinatorP", "dataSource"]
+- !private ["12XCoordinator11CoordinatorP", "init"]
+- ["s28CustomDebugStringConvertibleP", "Configuration"]
+- ["s28CustomDebugStringConvertibleP", "NavigationDirection"]
+- !private ["s28CustomDebugStringConvertibleP", "dataSource"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "multiple"]
+- !private ["s28CustomDebugStringConvertibleP", "set"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "multiple"]
+- !private ["s17CustomReflectableP", "set"]
+- ["s23CustomStringConvertibleP", "Configuration"]
+- ["s23CustomStringConvertibleP", "NavigationDirection"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "dataSource"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["Se", "first"]
+- !private ["Se", "init"]
+- !private ["Se", "map"]
+- !private ["Se", "multiple"]
+- !private ["Se", "set"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SE", "first"]
+- !private ["SE", "init"]
+- !private ["SE", "map"]
+- !private ["SE", "multiple"]
+- !private ["SE", "set"]
+- ["SQ", "Configuration"]
+- ["SQ", "NavigationDirection"]
+- !private ["SQ", "dataSource"]
+- !private ["SQ", "first"]
+- !private ["SQ", "forward"]
+- !private ["SQ", "init"]
+- !private ["SQ", "map"]
+- !private ["SQ", "multiple"]
+- !private ["SQ", "set"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "multiple"]
+- !private ["s23ExpressibleByNilLiteralP", "set"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", "Configuration"]
+- ["SH", "NavigationDirection"]
+- !private ["SH", "dataSource"]
+- !private ["SH", "first"]
+- !private ["SH", "forward"]
+- !private ["SH", "init"]
+- !private ["SH", "map"]
+- !private ["SH", "multiple"]
+- !private ["SH", "set"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "first"]
+- !private ["SM", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- ["So8NSCodingP", "Configuration"]
+- ["So8NSCodingP", "NavigationDirection"]
+- !private ["So8NSCodingP", "dataSource"]
+- !private ["So8NSCodingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "Configuration"]
+- ["So26NSExtensionRequestHandlingP", "NavigationDirection"]
+- !private ["So26NSExtensionRequestHandlingP", "dataSource"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- ["So8NSObjectC", "Configuration"]
+- ["So8NSObjectC", "NavigationDirection"]
+- !private ["So8NSObjectC", "dataSource"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectP", "Configuration"]
+- ["So8NSObjectP", "NavigationDirection"]
+- !private ["So8NSObjectP", "dataSource"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So39UIPageViewControllerNavigationDirectionV", "forward"]
+- !private ["Sq", "multiple"]
+- !private ["Sq", "set"]
+- ["12XCoordinator15PageCoordinatorC", "Bool"]
+- !private ["12XCoordinator15PageCoordinatorC", "PageCoordinator"]
+- !private ["12XCoordinator15PageCoordinatorC", "PageCoordinatorDataSource"]
+- ["12XCoordinator15PageCoordinatorC", "Presentable"]
+- !private ["12XCoordinator15PageCoordinatorC", "String"]
+- ["12XCoordinator15PageCoordinatorC", "UIPageViewController"]
+- ["12XCoordinator15PageCoordinatorC", "UIPageViewControllerDataSource"]
+- !private ["12XCoordinator15PageCoordinatorC", "assertionFailure"]
+- ["12XCoordinator15PageCoordinatorC", "configuration"]
+- ["12XCoordinator15PageCoordinatorC", "dataSource"]
+- ["12XCoordinator15PageCoordinatorC", "generateRootViewController"]
+- ["12XCoordinator15PageCoordinatorC", "init"]
+- !private ["12XCoordinator25PageCoordinatorDataSourceC", "deinit"]
+- !private ["12XCoordinator25PageCoordinatorDataSourceC", "init"]
+- ["12XCoordinator11PresentableP", "Configuration"]
+- ["12XCoordinator11PresentableP", "NavigationDirection"]
+- !private ["12XCoordinator11PresentableP", "PageCoordinator"]
+- !private ["12XCoordinator11PresentableP", "PageCoordinatorDataSource"]
+- !private ["12XCoordinator11PresentableP", "String"]
+- !private ["12XCoordinator11PresentableP", "UIPageViewController"]
+- ["12XCoordinator11PresentableP", ""]
+- !private ["12XCoordinator11PresentableP", "assertionFailure"]
+- !private ["12XCoordinator11PresentableP", "configuration"]
+- !private ["12XCoordinator11PresentableP", "dataSource"]
+- !private ["12XCoordinator11PresentableP", "init"]
+- !private ["12XCoordinator11PresentableP", "viewController"]
+- !private ["Sk", "first"]
+- !private ["Sk", "map"]
+- !private ["Sm", "first"]
+- !private ["Sm", "init"]
+- !private ["Sm", "map"]
+- !private ["SY", "forward"]
+- ["7RxSwift18ReactiveCompatibleP", "Configuration"]
+- ["7RxSwift18ReactiveCompatibleP", "NavigationDirection"]
+- !private ["7RxSwift18ReactiveCompatibleP", "dataSource"]
+- !private ["7RxSwift18ReactiveCompatibleP", "init"]
+- !private ["12XCoordinator6RouterP", "PageCoordinator"]
+- !private ["12XCoordinator6RouterP", "PageCoordinatorDataSource"]
+- !private ["12XCoordinator6RouterP", "String"]
+- !private ["12XCoordinator6RouterP", "UIPageViewController"]
+- ["12XCoordinator6RouterP", ""]
+- !private ["12XCoordinator6RouterP", "assertionFailure"]
+- !private ["12XCoordinator6RouterP", "configuration"]
+- !private ["12XCoordinator6RouterP", "dataSource"]
+- !private ["12XCoordinator6RouterP", "init"]
+- !private ["ST", "first"]
+- !private ["ST", "init"]
+- !private ["ST", "map"]
+- !private ["SS", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- ["12XCoordinator10TransitionV", "deinit"]
+- !private ["12XCoordinator10TransitionV", "initial"]
+- !private ["12XCoordinator10TransitionV", "multiple"]
+- !private ["12XCoordinator10TransitionV", "set"]
+- !private ["12XCoordinator19TransitionPerformerP", "PageCoordinator"]
+- !private ["12XCoordinator19TransitionPerformerP", "PageCoordinatorDataSource"]
+- !private ["12XCoordinator19TransitionPerformerP", "String"]
+- !private ["12XCoordinator19TransitionPerformerP", "UIPageViewController"]
+- ["12XCoordinator19TransitionPerformerP", ""]
+- !private ["12XCoordinator19TransitionPerformerP", "assertionFailure"]
+- !private ["12XCoordinator19TransitionPerformerP", "configuration"]
+- !private ["12XCoordinator19TransitionPerformerP", "dataSource"]
+- !private ["12XCoordinator19TransitionPerformerP", "init"]
+- !private ["12XCoordinator18TransitionProtocolP", "initial"]
+- !private ["12XCoordinator18TransitionProtocolP", "multiple"]
+- !private ["12XCoordinator18TransitionProtocolP", "set"]
+- ["So21UIAppearanceContainerP", "Configuration"]
+- ["So21UIAppearanceContainerP", "NavigationDirection"]
+- !private ["So21UIAppearanceContainerP", "dataSource"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- ["So18UIContentContainerP", "Configuration"]
+- ["So18UIContentContainerP", "NavigationDirection"]
+- !private ["So18UIContentContainerP", "dataSource"]
+- !private ["So18UIContentContainerP", "init"]
+- ["So18UIFocusEnvironmentP", "Configuration"]
+- ["So18UIFocusEnvironmentP", "NavigationDirection"]
+- !private ["So18UIFocusEnvironmentP", "dataSource"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- ["So20UIPageViewControllerC", "Configuration"]
+- ["So20UIPageViewControllerC", "NavigationDirection"]
+- !private ["So20UIPageViewControllerC", "dataSource"]
+- !private ["So20UIPageViewControllerC", "init"]
+- !private ["So30UIPageViewControllerDataSourceP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "Configuration"]
+- ["So30UIPasteConfigurationSupportingP", "NavigationDirection"]
+- !private ["So30UIPasteConfigurationSupportingP", "dataSource"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So11UIResponderC", "Configuration"]
+- ["So11UIResponderC", "NavigationDirection"]
+- !private ["So11UIResponderC", "dataSource"]
+- !private ["So11UIResponderC", "init"]
+- ["So30UIResponderStandardEditActionsP", "Configuration"]
+- ["So30UIResponderStandardEditActionsP", "NavigationDirection"]
+- !private ["So30UIResponderStandardEditActionsP", "dataSource"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- ["So16UIStateRestoringP", "Configuration"]
+- ["So16UIStateRestoringP", "NavigationDirection"]
+- !private ["So16UIStateRestoringP", "dataSource"]
+- !private ["So16UIStateRestoringP", "init"]
+- ["So18UITraitEnvironmentP", "Configuration"]
+- ["So18UITraitEnvironmentP", "NavigationDirection"]
+- !private ["So18UITraitEnvironmentP", "dataSource"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- ["So23UIUserActivityRestoringP", "Configuration"]
+- ["So23UIUserActivityRestoringP", "NavigationDirection"]
+- !private ["So23UIUserActivityRestoringP", "dataSource"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- ["So16UIViewControllerC", "Configuration"]
+- ["So16UIViewControllerC", "NavigationDirection"]
+- !private ["So16UIViewControllerC", "dataSource"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Configuration"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "NavigationDirection"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataSource"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "multiple"]
+- !private ["s21_ObjectiveCBridgeableP", "set"]
+depends-nominal:
+- !private "Sa"
+- "12XCoordinator15BaseCoordinatorC"
+- !private "SK"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "So20UIPageViewControllerC12XCoordinatorE13ConfigurationV"
+- "12XCoordinator9ContainerP"
+- !private "10Foundation15ContiguousBytesP"
+- "12XCoordinator11CoordinatorP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So39UIPageViewControllerNavigationDirectionV"
+- !private "Sq"
+- "12XCoordinator15PageCoordinatorC"
+- !private "12XCoordinator25PageCoordinatorDataSourceC"
+- "12XCoordinator11PresentableP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- "7RxSwift18ReactiveCompatibleP"
+- "12XCoordinator6RouterP"
+- !private "ST"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "12XCoordinator10TransitionV"
+- "12XCoordinator19TransitionPerformerP"
+- !private "12XCoordinator18TransitionProtocolP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So20UIPageViewControllerC"
+- !private "So30UIPageViewControllerDataSourceP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/XCoordinator/XCoordinator-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCoordinator.build/unextended-module.modulemap"
+- "/Users/olegp/Desktop/XCoordinatorPlayground/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a734e4f1687797b3acf8afefeefcf5ea"
